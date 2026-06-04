@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 54,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.54.1",
+      "text": "Al Director. Con instrumentos de cuerda. Poema de David."
+    },
+    {
+      "v": 2,
+      "ref": "psa.54.2",
+      "text": "Cuando los zifitas vinieron a decir a Saúl: «¿No está escondido David entre nosotros?»."
+    },
+    {
+      "v": 3,
+      "ref": "psa.54.3",
+      "text": "Oh Dios, sálvame por tu nombre, sal por mí con tu poder."
+    },
+    {
+      "v": 4,
+      "ref": "psa.54.4",
+      "text": "Oh Dios, escucha mi súplica, atiende a mis palabras;"
+    },
+    {
+      "v": 5,
+      "ref": "psa.54.5",
+      "text": "porque unos insolentes se alzan contra mí, y hombres violentos me persiguen a muerte, sin tener presente a Dios. (Pausa)"
+    },
+    {
+      "v": 6,
+      "ref": "psa.54.6",
+      "text": "Pero Dios es mi auxilio, el Señor sostiene mi vida."
+    },
+    {
+      "v": 7,
+      "ref": "psa.54.7",
+      "text": "Devuelve el mal a mis adversarios, destrúyelos por tu fidelidad."
+    },
+    {
+      "v": 8,
+      "ref": "psa.54.8",
+      "text": "Te ofreceré un sacrificio voluntario, dando gracias a tu nombre, que es bueno;"
+    },
+    {
+      "v": 9,
+      "ref": "psa.54.9",
+      "text": "porque me libraste del peligro, y he visto la derrota de mis enemigos."
+    }
+  ]
+}

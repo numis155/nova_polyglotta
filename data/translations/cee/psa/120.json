@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 120,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.120.1",
+      "text": "Canción de las subidas. En mi aflicción llamé al Señor, y él me respondió."
+    },
+    {
+      "v": 2,
+      "ref": "psa.120.2",
+      "text": "Líbrame, Señor, de los labios mentirosos, de la lengua traidora."
+    },
+    {
+      "v": 3,
+      "ref": "psa.120.3",
+      "text": "¿Qué te va a dar o mandarte Dios, lengua traidora?"
+    },
+    {
+      "v": 4,
+      "ref": "psa.120.4",
+      "text": "Flechas de arquero, afiladas con ascuas de retama."
+    },
+    {
+      "v": 5,
+      "ref": "psa.120.5",
+      "text": "¡Ay de mí, desterrado en Masac, acampado en Cadar!"
+    },
+    {
+      "v": 6,
+      "ref": "psa.120.6",
+      "text": "Demasiado llevo viviendo con los que odian la paz."
+    },
+    {
+      "v": 7,
+      "ref": "psa.120.7",
+      "text": "Cuando yo digo: «Paz», ellos dicen: «Guerra»."
+    }
+  ]
+}

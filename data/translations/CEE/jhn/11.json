@@ -1,235 +1,293 @@
 {
+  "schemaVersion": 1,
   "translation": "cee",
   "book": "jhn",
   "chapter": 11,
   "verses": [
     {
       "v": 1,
+      "ref": "jhn.11.1",
       "text": "Había caído enfermo un cierto Lázaro, de Betania, la aldea de María y de Marta, su hermana."
     },
     {
       "v": 2,
+      "ref": "jhn.11.2",
       "text": "María era la que ungió al Señor con perfume y le enjugó los pies con su cabellera; el enfermo era su hermano Lázaro."
     },
     {
       "v": 3,
+      "ref": "jhn.11.3",
       "text": "Las hermanas le mandaron recado a Jesús diciendo: «Señor, el que tú amas está enfermo»."
     },
     {
       "v": 4,
+      "ref": "jhn.11.4",
       "text": "Jesús, al oírlo, dijo: «Esta enfermedad no es para la muerte, sino que servirá para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella»."
     },
     {
       "v": 5,
+      "ref": "jhn.11.5",
       "text": "Jesús amaba a Marta, a su hermana y a Lázaro."
     },
     {
       "v": 6,
+      "ref": "jhn.11.6",
       "text": "Cuando se enteró de que estaba enfermo se quedó todavía dos días donde estaba."
     },
     {
       "v": 7,
+      "ref": "jhn.11.7",
       "text": "Solo entonces dijo a sus discípulos: «Vamos otra vez a Judea»."
     },
     {
       "v": 8,
+      "ref": "jhn.11.8",
       "text": "Los discípulos le replicaron: «Maestro, hace poco intentaban apedrearte los judíos, ¿y vas a volver de nuevo allí?»."
     },
     {
       "v": 9,
+      "ref": "jhn.11.9",
       "text": "Jesús contestó: «¿No tiene el día doce horas? Si uno camina de día no tropieza, porque ve la luz de este mundo;"
     },
     {
       "v": 10,
+      "ref": "jhn.11.10",
       "text": "pero si camina de noche, tropieza porque la luz no está en él»."
     },
     {
       "v": 11,
+      "ref": "jhn.11.11",
       "text": "Dicho esto, añadió: «Lázaro, nuestro amigo, está dormido: voy a despertarlo»."
     },
     {
       "v": 12,
+      "ref": "jhn.11.12",
       "text": "Entonces le dijeron sus discípulos: «Señor, si duerme, se salvará»."
     },
     {
       "v": 13,
+      "ref": "jhn.11.13",
       "text": "Jesús se refería a su muerte; en cambio, ellos creyeron que hablaba del sueño natural."
     },
     {
       "v": 14,
+      "ref": "jhn.11.14",
       "text": "Entonces Jesús les replicó claramente: «Lázaro ha muerto,"
     },
     {
       "v": 15,
+      "ref": "jhn.11.15",
       "text": "y me alegro por vosotros de que no hayamos estado allí, para que creáis. Y ahora vamos a su encuentro»."
     },
     {
       "v": 16,
+      "ref": "jhn.11.16",
       "text": "Entonces Tomás, apodado el Mellizo, dijo a los demás discípulos: «Vamos también nosotros y muramos con él»."
     },
     {
       "v": 17,
+      "ref": "jhn.11.17",
       "text": "Cuando Jesús llegó, Lázaro llevaba ya cuatro días enterrado."
     },
     {
       "v": 18,
+      "ref": "jhn.11.18",
       "text": "Betania distaba poco de Jerusalén: unos quince estadios;"
     },
     {
       "v": 19,
+      "ref": "jhn.11.19",
       "text": "y muchos judíos habían ido a ver a Marta y a María para darles el pésame por su hermano."
     },
     {
       "v": 20,
+      "ref": "jhn.11.20",
       "text": "Cuando Marta se enteró de que llegaba Jesús, salió a su encuentro, mientras María se quedó en casa."
     },
     {
       "v": 21,
+      "ref": "jhn.11.21",
       "text": "Y dijo Marta a Jesús: «Señor, si hubieras estado aquí no habría muerto mi hermano."
     },
     {
       "v": 22,
+      "ref": "jhn.11.22",
       "text": "Pero aún ahora sé que todo lo que pidas a Dios, Dios te lo concederá»."
     },
     {
       "v": 23,
+      "ref": "jhn.11.23",
       "text": "Jesús le dijo: «Tu hermano resucitará»."
     },
     {
       "v": 24,
+      "ref": "jhn.11.24",
       "text": "Marta respondió: «Sé que resucitará en la resurrección en el último día»."
     },
     {
       "v": 25,
+      "ref": "jhn.11.25",
       "text": "Jesús le dijo: «Yo soy la resurrección y la vida: el que cree en mí, aunque haya muerto, vivirá;"
     },
     {
       "v": 26,
+      "ref": "jhn.11.26",
       "text": "y el que está vivo y cree en mí, no morirá para siempre. ¿Crees esto?»."
     },
     {
       "v": 27,
+      "ref": "jhn.11.27",
       "text": "Ella le contestó: «Sí, Señor: yo creo que tú eres el Cristo, el Hijo de Dios, el que tenía que venir al mundo»."
     },
     {
       "v": 28,
+      "ref": "jhn.11.28",
       "text": "Y dicho esto, fue a llamar a su hermana María, diciéndole en voz baja: «El Maestro está ahí y te llama»."
     },
     {
       "v": 29,
+      "ref": "jhn.11.29",
       "text": "Apenas lo oyó, se levantó y salió adonde estaba él:"
     },
     {
       "v": 30,
+      "ref": "jhn.11.30",
       "text": "porque Jesús no había entrado todavía en la aldea, sino que estaba aún donde Marta lo había encontrado."
     },
     {
       "v": 31,
+      "ref": "jhn.11.31",
       "text": "Los judíos que estaban con ella en casa consolándola, al ver que María se levantaba y salía deprisa, la siguieron, pensando que iba al sepulcro a llorar allí."
     },
     {
       "v": 32,
+      "ref": "jhn.11.32",
       "text": "Cuando llegó María adonde estaba Jesús, al verlo se echó a sus pies diciéndole: «Señor, si hubieras estado aquí no habría muerto mi hermano»."
     },
     {
       "v": 33,
+      "ref": "jhn.11.33",
       "text": "Jesús, viéndola llorar a ella y viendo llorar a los judíos que la acompañaban, se conmovió en su espíritu, se estremeció"
     },
     {
       "v": 34,
+      "ref": "jhn.11.34",
       "text": "y preguntó: «¿Dónde lo habéis enterrado». Le contestaron: «Señor, ven a verlo»."
     },
     {
       "v": 35,
+      "ref": "jhn.11.35",
       "text": "Jesús se echó a llorar."
     },
     {
       "v": 36,
+      "ref": "jhn.11.36",
       "text": "Los judíos comentaban: «¡Cómo lo quería!»."
     },
     {
       "v": 37,
+      "ref": "jhn.11.37",
       "text": "Pero algunos dijeron: «Y uno que le ha abierto los ojos a un ciego, ¿no podía haber impedido que este muriera?»."
     },
     {
       "v": 38,
+      "ref": "jhn.11.38",
       "text": "Jesús, conmovido de nuevo en su interior, llegó a la tumba. Era una cavidad cubierta con una losa."
     },
     {
       "v": 39,
+      "ref": "jhn.11.39",
       "text": "Dijo Jesús: «Quitad la losa». Marta, la hermana del muerto, le dijo: «Señor, ya huele mal porque lleva cuatro días»."
     },
     {
       "v": 40,
+      "ref": "jhn.11.40",
       "text": "Jesús le replicó: «¿No te he dicho que si crees verás la gloria de Dios?»."
     },
     {
       "v": 41,
+      "ref": "jhn.11.41",
       "text": "Entonces quitaron la losa. Jesús, levantando los ojos a lo alto, dijo: «Padre, te doy gracias porque me has escuchado;"
     },
     {
       "v": 42,
+      "ref": "jhn.11.42",
       "text": "yo sé que tú me escuchas siempre; pero lo digo por la gente que me rodea, para que crean que tú me has enviado»."
     },
     {
       "v": 43,
+      "ref": "jhn.11.43",
       "text": "Y dicho esto, gritó con voz potente: «Lázaro, sal afuera»."
     },
     {
       "v": 44,
+      "ref": "jhn.11.44",
       "text": "El muerto salió, los pies y las manos atados con vendas, y la cara envuelta en un sudario. Jesús les dijo: «Desatadlo y dejadlo andar»."
     },
     {
       "v": 45,
+      "ref": "jhn.11.45",
       "text": "Y muchos judíos que habían venido a casa de María, al ver lo que había hecho Jesús, creyeron en él."
     },
     {
       "v": 46,
+      "ref": "jhn.11.46",
       "text": "Pero algunos acudieron a los fariseos y les contaron lo que había hecho Jesús."
     },
     {
       "v": 47,
+      "ref": "jhn.11.47",
       "text": "Los sumos sacerdotes y los fariseos convocaron el Sanedrín y dijeron: «¿Qué hacemos? Este hombre hace muchos signos."
     },
     {
       "v": 48,
+      "ref": "jhn.11.48",
       "text": "Si lo dejamos seguir, todos creerán en él, y vendrán los romanos y nos destruirán el lugar santo y la nación»."
     },
     {
       "v": 49,
+      "ref": "jhn.11.49",
       "text": "Uno de ellos, Caifás, que era sumo sacerdote aquel año, les dijo: «Vosotros no entendéis ni palabra;"
     },
     {
       "v": 50,
+      "ref": "jhn.11.50",
       "text": "no comprendéis que os conviene que uno muera por el pueblo, y que no perezca la nación entera»."
     },
     {
       "v": 51,
+      "ref": "jhn.11.51",
       "text": "Esto no lo dijo por propio impulso, sino que, por ser sumo sacerdote aquel año, habló proféticamente, anunciando que Jesús iba a morir por la nación;"
     },
     {
       "v": 52,
+      "ref": "jhn.11.52",
       "text": "y no solo por la nación, sino también para reunir a los hijos de Dios dispersos."
     },
     {
       "v": 53,
+      "ref": "jhn.11.53",
       "text": "Y aquel día decidieron darle muerte."
     },
     {
       "v": 54,
+      "ref": "jhn.11.54",
       "text": "Por eso Jesús ya no andaba públicamente entre los judíos, sino que se retiró a la región vecina al desierto, a una ciudad llamada Efraín, y pasaba allí el tiempo con los discípulos."
     },
     {
       "v": 55,
+      "ref": "jhn.11.55",
       "text": "Se acercaba la Pascua de los judíos, y muchos de aquella región subían a Jerusalén, antes de la Pascua, para purificarse."
     },
     {
       "v": 56,
+      "ref": "jhn.11.56",
       "text": "Buscaban a Jesús y, estando en el templo, se preguntaban: «¿Qué os parece? ¿Vendrá a la fiesta?»."
     },
     {
       "v": 57,
-      "text": "Los sumos sacerdotes y fariseos habían mandado que el que se enterase de dónde estaba les avisara para prenderlo."
+      "ref": "jhn.11.57",
+      "text": "Los sumos sacerdotes y fariseos habían mandado que el que se enterase de dónde estaba les avisara para prenderlo. Unción en Betania"
     }
   ]
 }

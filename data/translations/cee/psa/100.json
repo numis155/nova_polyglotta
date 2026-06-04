@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 100,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.100.1",
+      "text": "Salmo; para la acción de gracias. Aclama al Señor, tierra entera,"
+    },
+    {
+      "v": 2,
+      "ref": "psa.100.2",
+      "text": "servid al Señor con alegría, entrad en su presencia con vítores."
+    },
+    {
+      "v": 3,
+      "ref": "psa.100.3",
+      "text": "Sabed que el Señor es Dios: que él nos hizo y somos suyos, su pueblo y ovejas de su rebaño."
+    },
+    {
+      "v": 4,
+      "ref": "psa.100.4",
+      "text": "Entrad por sus puertas con acción de gracias, por sus atrios con himnos, dándole gracias y bendiciendo su nombre:"
+    },
+    {
+      "v": 5,
+      "ref": "psa.100.5",
+      "text": "«El Señor es bueno, su misericordia es eterna, su fidelidad por todas las edades»."
+    }
+  ]
+}

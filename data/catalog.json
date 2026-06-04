@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "id": "nova-polyglotta",
+    "name": "Nova Polyglotta",
+    "version": "0.1.0",
+    "defaultBook": "jhn",
+    "defaultChapter": 1,
+    "defaultTranslations": ["vulgata", "na28", "cee"]
+  },
+  "data": {
+    "basePath": "data/translations",
+    "filePattern": "{translation}/{book}/{chapter}.json"
+  },
+  "translations": [
+    {
+      "id": "cee",
+      "name": "Sagrada Biblia CEE",
+      "shortName": "CEE",
+      "language": "es",
+      "languageName": "Español",
+      "direction": "ltr",
+      "tradition": "catolica",
+      "type": "translation",
+      "coverage": {
+        "testaments": ["AT", "NT"],
+        "books": ["jhn"]
+      },
+      "status": "partial",
+      "copyright": "restricted"
+    },
+    {
+      "id": "vulgata",
+      "name": "Vulgata",
+      "shortName": "Vulgata",
+      "language": "la",
+      "languageName": "Latín",
+      "direction": "ltr",
+      "tradition": "catolica",
+      "type": "latin",
+      "coverage": {
+        "testaments": ["AT", "NT"],
+        "books": []
+      },
+      "status": "planned",
+      "copyright": "public_domain_or_check"
+    },
+    {
+      "id": "na28",
+      "name": "Nestle-Aland 28",
+      "shortName": "NA28",
+      "language": "grc",
+      "languageName": "Griego koiné",
+      "direction": "ltr",
+      "tradition": "critical_text",
+      "type": "original_language",
+      "coverage": {
+        "testaments": ["NT"],
+        "books": []
+      },
+      "status": "planned",
+      "copyright": "restricted"
+    }
+  ],
+  "books": [
+    {
+      "id": "jhn",
+      "osisId": "John",
+      "name": "Juan",
+      "fullName": "Evangelio según san Juan",
+      "abbreviation": "Jn",
+      "testament": "NT",
+      "order": 43,
+      "chapters": 21,
+      "availableTranslations": ["cee"]
+    }
+  ]
+}

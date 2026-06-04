@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "bar",
+  "chapter": 5,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "bar.5.1",
+      "text": "Exue te, Jerusalem, stola luctus et vexationis tuæ, et indue te decore, et honore ejus, quæ a Deo tibi est, sempiternæ gloriæ."
+    },
+    {
+      "v": 2,
+      "ref": "bar.5.2",
+      "text": "Circumdabit te Deus diploide justitiæ, et imponet mitram capiti honoris æterni."
+    },
+    {
+      "v": 3,
+      "ref": "bar.5.3",
+      "text": "Deus enim ostendet splendorem suum in te, omni qui sub cælo est."
+    },
+    {
+      "v": 4,
+      "ref": "bar.5.4",
+      "text": "Nominabitur enim tibi nomen tuum a Deo in sempiternum : pax justitiæ, et honor pietatis."
+    },
+    {
+      "v": 5,
+      "ref": "bar.5.5",
+      "text": "Exsurge, Jerusalem, et sta in excelso : et circumspice ad orientem, et vide collectos filios tuos ab oriente sole usque ad occidentem, in verbo Sancti, gaudentes Dei memoria."
+    },
+    {
+      "v": 6,
+      "ref": "bar.5.6",
+      "text": "Exierunt enim abs te pedibus ducti ab inimicis : adducet autem illos Dominus ad te portatos in honore sicut filios regni :"
+    },
+    {
+      "v": 7,
+      "ref": "bar.5.7",
+      "text": "constituit enim Deus humiliare omnem montem excelsum et rupes perennes, et convalles replere in æqualitatem terræ, ut ambulet Israël diligenter in honorem Dei."
+    },
+    {
+      "v": 8,
+      "ref": "bar.5.8",
+      "text": "Obumbraverunt autem et silvæ, et omne lignum suavitatis Israël ex mandato Dei."
+    },
+    {
+      "v": 9,
+      "ref": "bar.5.9",
+      "text": "Adducet enim Deus Israël cum jucunditate in lumine majestatis suæ, cum misericordia et justitia quæ est ex ipso."
+    }
+  ]
+}

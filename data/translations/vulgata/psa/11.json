@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 11,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.11.1",
+      "text": "In finem, pro octava. Psalmus David."
+    },
+    {
+      "v": 2,
+      "ref": "psa.11.2",
+      "text": "Salvum me fac, Domine, quoniam defecit sanctus, quoniam diminutæ sunt veritates a filiis hominum."
+    },
+    {
+      "v": 3,
+      "ref": "psa.11.3",
+      "text": "Vana locuti sunt unusquisque ad proximum suum ; labia dolosa, in corde et corde locuti sunt."
+    },
+    {
+      "v": 4,
+      "ref": "psa.11.4",
+      "text": "Disperdat Dominus universa labia dolosa, et linguam magniloquam."
+    },
+    {
+      "v": 5,
+      "ref": "psa.11.5",
+      "text": "Qui dixerunt : Linguam nostram magnificabimus ; labia nostra a nobis sunt. Quis noster dominus est ?"
+    },
+    {
+      "v": 6,
+      "ref": "psa.11.6",
+      "text": "Propter miseriam inopum, et gemitum pauperum, nunc exsurgam, dicit Dominus. Ponam in salutari ; fiducialiter agam in eo."
+    },
+    {
+      "v": 7,
+      "ref": "psa.11.7",
+      "text": "Eloquia Domini, eloquia casta ; argentum igne examinatum, probatum terræ, purgatum septuplum."
+    },
+    {
+      "v": 8,
+      "ref": "psa.11.8",
+      "text": "Tu, Domine, servabis nos, et custodies nos a generatione hac in æternum."
+    },
+    {
+      "v": 9,
+      "ref": "psa.11.9",
+      "text": "In circuitu impii ambulant : secundum altitudinem tuam multiplicasti filios hominum."
+    }
+  ]
+}

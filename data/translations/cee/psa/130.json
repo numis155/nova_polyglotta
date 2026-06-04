@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 130,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.130.1",
+      "text": "Canción de las subidas. Desde lo hondo a ti grito, Señor;"
+    },
+    {
+      "v": 2,
+      "ref": "psa.130.2",
+      "text": "Señor, escucha mi voz; estén tus oídos atentos a la voz de mi súplica."
+    },
+    {
+      "v": 3,
+      "ref": "psa.130.3",
+      "text": "Si llevas cuenta de los delitos, Señor, ¿quién podrá resistir?"
+    },
+    {
+      "v": 4,
+      "ref": "psa.130.4",
+      "text": "Pero de ti procede el perdón, y así infundes temor."
+    },
+    {
+      "v": 5,
+      "ref": "psa.130.5",
+      "text": "Mi alma espera en el Señor, espera en su palabra;"
+    },
+    {
+      "v": 6,
+      "ref": "psa.130.6",
+      "text": "mi alma aguarda al Señor, más que el centinela la aurora."
+    },
+    {
+      "v": 7,
+      "ref": "psa.130.7",
+      "text": "Aguarde Israel al Señor, como el centinela la aurora; porque del Señor viene la misericordia, la redención copiosa;"
+    },
+    {
+      "v": 8,
+      "ref": "psa.130.8",
+      "text": "y él redimirá a Israel de todos sus delitos."
+    }
+  ]
+}

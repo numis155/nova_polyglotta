@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 134,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.134.1",
+      "text": "Canción de las subidas. Y ahora bendecid al Señor los siervos del Señor, los que pasáis la noche en la casa del Señor."
+    },
+    {
+      "v": 2,
+      "ref": "psa.134.2",
+      "text": "Levantad las manos hacia el santuario y bendecid al Señor."
+    },
+    {
+      "v": 3,
+      "ref": "psa.134.3",
+      "text": "El Señor te bendiga desde Sión, el que hizo cielo y tierra."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.3.1",
+      "text": "Psalmus David, cum fugeret a facie Absalom filii sui."
+    },
+    {
+      "v": 2,
+      "ref": "psa.3.2",
+      "text": "Domine, quid multiplicati sunt qui tribulant me ? Multi insurgunt adversum me ;"
+    },
+    {
+      "v": 3,
+      "ref": "psa.3.3",
+      "text": "multi dicunt animæ meæ : Non est salus ipsi in Deo ejus."
+    },
+    {
+      "v": 4,
+      "ref": "psa.3.4",
+      "text": "Tu autem Domine, susceptor meus es, gloria mea, et exaltans caput meum."
+    },
+    {
+      "v": 5,
+      "ref": "psa.3.5",
+      "text": "Voce mea ad Dominum clamavi ; et exaudivit me de monte sancto suo."
+    },
+    {
+      "v": 6,
+      "ref": "psa.3.6",
+      "text": "Ego dormivi, et soporatus sum ; et exsurrexi, quia Dominus suscepit me."
+    },
+    {
+      "v": 7,
+      "ref": "psa.3.7",
+      "text": "Non timebo millia populi circumdantis me. Exsurge, Domine ; salvum me fac, Deus meus."
+    },
+    {
+      "v": 8,
+      "ref": "psa.3.8",
+      "text": "Quoniam tu percussisti omnes adversantes mihi sine causa ; dentes peccatorum contrivisti."
+    },
+    {
+      "v": 9,
+      "ref": "psa.3.9",
+      "text": "Domini est salus ; et super populum tuum benedictio tua."
+    }
+  ]
+}

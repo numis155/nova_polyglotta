@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 93,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.93.1",
+      "text": "El Señor reina, vestido de majestad; el Señor, vestido y ceñido de poder: así está firme el orbe y no vacila."
+    },
+    {
+      "v": 2,
+      "ref": "psa.93.2",
+      "text": "Tu trono está firme desde siempre, y tú eres eterno."
+    },
+    {
+      "v": 3,
+      "ref": "psa.93.3",
+      "text": "Levantan los ríos, Señor, levantan los ríos su voz, levantan los ríos su fragor;"
+    },
+    {
+      "v": 4,
+      "ref": "psa.93.4",
+      "text": "pero más que la voz de aguas caudalosas, más potente que el oleaje del mar, más potente en el cielo es el Señor."
+    },
+    {
+      "v": 5,
+      "ref": "psa.93.5",
+      "text": "Tus mandatos son fieles y seguros; la santidad es el adorno de tu casa, Señor, por días sin término."
+    }
+  ]
+}

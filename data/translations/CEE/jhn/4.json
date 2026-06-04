@@ -1,222 +1,277 @@
 {
+  "schemaVersion": 1,
   "translation": "cee",
   "book": "jhn",
   "chapter": 4,
   "verses": [
     {
       "v": 1,
+      "ref": "jhn.4.1",
       "text": "Cuando supo Jesús que habían oído los fariseos que Jesús hacía más discípulos que Juan y que bautizaba"
     },
     {
       "v": 2,
+      "ref": "jhn.4.2",
       "text": "(aunque Jesús no bautizaba, sino sus discípulos),"
     },
     {
       "v": 3,
+      "ref": "jhn.4.3",
       "text": "dejó Judea y partió de nuevo para Galilea."
     },
     {
       "v": 4,
+      "ref": "jhn.4.4",
       "text": "Era necesario que él pasara a través de Samaría."
     },
     {
       "v": 5,
+      "ref": "jhn.4.5",
       "text": "Llegó Jesús a una ciudad de Samaría llamada Sicar, cerca del campo que dio Jacob a su hijo José;"
     },
     {
       "v": 6,
+      "ref": "jhn.4.6",
       "text": "allí estaba el pozo de Jacob. Jesús, cansado del camino, estaba allí sentado junto al pozo. Era hacia la hora sexta."
     },
     {
       "v": 7,
+      "ref": "jhn.4.7",
       "text": "Llega una mujer de Samaría a sacar agua, y Jesús le dice: «Dame de beber»."
     },
     {
       "v": 8,
+      "ref": "jhn.4.8",
       "text": "Sus discípulos se habían ido al pueblo a comprar comida. La samaritana le dice:"
     },
     {
       "v": 9,
+      "ref": "jhn.4.9",
       "text": "«¿Cómo tú, siendo judío, me pides de beber a mí, que soy samaritana?» (porque los judíos no se tratan con los samaritanos)."
     },
     {
       "v": 10,
+      "ref": "jhn.4.10",
       "text": "Jesús le contestó: «Si conocieras el don de Dios y quién es el que te dice “dame de beber”, le pedirías tú, y él te daría agua viva»."
     },
     {
       "v": 11,
+      "ref": "jhn.4.11",
       "text": "La mujer le dice: «Señor, si no tienes cubo, y el pozo es hondo, ¿de dónde sacas el agua viva?;"
     },
     {
       "v": 12,
+      "ref": "jhn.4.12",
       "text": "¿eres tú más que nuestro padre Jacob, que nos dio este pozo, y de él bebieron él y sus hijos y sus ganados?»."
     },
     {
       "v": 13,
+      "ref": "jhn.4.13",
       "text": "Jesús le contestó: «El que bebe de esta agua vuelve a tener sed;"
     },
     {
       "v": 14,
+      "ref": "jhn.4.14",
       "text": "pero el que beba del agua que yo le daré nunca más tendrá sed: el agua que yo le daré se convertirá dentro de él en un surtidor de agua que salta hasta la vida eterna»."
     },
     {
       "v": 15,
+      "ref": "jhn.4.15",
       "text": "La mujer le dice: «Señor, dame esa agua: así no tendré más sed, ni tendré que venir aquí a sacarla»."
     },
     {
       "v": 16,
+      "ref": "jhn.4.16",
       "text": "Él le dice: «Anda, llama a tu marido y vuelve»."
     },
     {
       "v": 17,
+      "ref": "jhn.4.17",
       "text": "La mujer le contesta: «No tengo marido». Jesús le dice: «Tienes razón, que no tienes marido:"
     },
     {
       "v": 18,
+      "ref": "jhn.4.18",
       "text": "has tenido ya cinco, y el de ahora no es tu marido. En eso has dicho la verdad»."
     },
     {
       "v": 19,
+      "ref": "jhn.4.19",
       "text": "La mujer le dice: «Señor, veo que tú eres un profeta."
     },
     {
       "v": 20,
+      "ref": "jhn.4.20",
       "text": "Nuestros padres dieron culto en este monte, y vosotros decís que el sitio donde se debe dar culto está en Jerusalén»."
     },
     {
       "v": 21,
+      "ref": "jhn.4.21",
       "text": "Jesús le dice: «Créeme, mujer: se acerca la hora en que ni en este monte ni en Jerusalén adoraréis al Padre."
     },
     {
       "v": 22,
+      "ref": "jhn.4.22",
       "text": "Vosotros adoráis a uno que no conocéis; nosotros adoramos a uno que conocemos, porque la salvación viene de los judíos."
     },
     {
       "v": 23,
+      "ref": "jhn.4.23",
       "text": "Pero se acerca la hora, ya está aquí, en que los verdaderos adoradores adorarán al Padre en espíritu y verdad, porque el Padre desea que lo adoren así."
     },
     {
       "v": 24,
+      "ref": "jhn.4.24",
       "text": "Dios es espíritu, y los que lo adoran deben hacerlo en espíritu y verdad»."
     },
     {
       "v": 25,
+      "ref": "jhn.4.25",
       "text": "La mujer le dice: «Sé que va a venir el Mesías, el Cristo; cuando venga, él nos lo dirá todo»."
     },
     {
       "v": 26,
+      "ref": "jhn.4.26",
       "text": "Jesús le dice: «Soy yo, el que habla contigo»."
     },
     {
       "v": 27,
+      "ref": "jhn.4.27",
       "text": "En esto llegaron sus discípulos y se extrañaban de que estuviera hablando con una mujer, aunque ninguno le dijo: «¿Qué le preguntas o de qué le hablas?»."
     },
     {
       "v": 28,
+      "ref": "jhn.4.28",
       "text": "La mujer entonces dejó su cántaro, se fue al pueblo y dijo a la gente:"
     },
     {
       "v": 29,
+      "ref": "jhn.4.29",
       "text": "«Venid a ver un hombre que me ha dicho todo lo que he hecho; ¿será este el Mesías?»."
     },
     {
       "v": 30,
+      "ref": "jhn.4.30",
       "text": "Salieron del pueblo y se pusieron en camino adonde estaba él."
     },
     {
       "v": 31,
+      "ref": "jhn.4.31",
       "text": "Mientras tanto sus discípulos le insistían: «Maestro, come»."
     },
     {
       "v": 32,
+      "ref": "jhn.4.32",
       "text": "Él les dijo: «Yo tengo un alimento que vosotros no conocéis»."
     },
     {
       "v": 33,
+      "ref": "jhn.4.33",
       "text": "Los discípulos comentaban entre ellos: «¿Le habrá traído alguien de comer?»."
     },
     {
       "v": 34,
+      "ref": "jhn.4.34",
       "text": "Jesús les dice: «Mi alimento es hacer la voluntad del que me envió y llevar a término su obra."
     },
     {
       "v": 35,
+      "ref": "jhn.4.35",
       "text": "¿No decís vosotros que faltan todavía cuatro meses para la cosecha? Yo os digo esto: Levantad los ojos y contemplad los campos, que están ya dorados para la siega;"
     },
     {
       "v": 36,
+      "ref": "jhn.4.36",
       "text": "el segador ya está recibiendo salario y almacenando fruto para la vida eterna: y así, se alegran lo mismo sembrador y segador."
     },
     {
       "v": 37,
+      "ref": "jhn.4.37",
       "text": "Con todo, tiene razón el proverbio: Uno siembra y otro siega."
     },
     {
       "v": 38,
+      "ref": "jhn.4.38",
       "text": "Yo os envié a segar lo que no habéis trabajado. Otros trabajaron y vosotros entrasteis en el fruto de sus trabajos»."
     },
     {
       "v": 39,
+      "ref": "jhn.4.39",
       "text": "En aquel pueblo muchos samaritanos creyeron en él por el testimonio que había dado la mujer: «Me ha dicho todo lo que he hecho»."
     },
     {
       "v": 40,
+      "ref": "jhn.4.40",
       "text": "Así, cuando llegaron a verlo los samaritanos, le rogaban que se quedara con ellos. Y se quedó allí dos días."
     },
     {
       "v": 41,
+      "ref": "jhn.4.41",
       "text": "Todavía creyeron muchos más por su predicación,"
     },
     {
       "v": 42,
+      "ref": "jhn.4.42",
       "text": "y decían a la mujer: «Ya no creemos por lo que tú dices; nosotros mismos lo hemos oído y sabemos que él es de verdad el Salvador del mundo»."
     },
     {
       "v": 43,
+      "ref": "jhn.4.43",
       "text": "Después de dos días, salió Jesús de Samaría para Galilea."
     },
     {
       "v": 44,
+      "ref": "jhn.4.44",
       "text": "Jesús mismo había atestiguado: «Un profeta no es estimado en su propia patria»."
     },
     {
       "v": 45,
+      "ref": "jhn.4.45",
       "text": "Cuando llegó a Galilea, los galileos lo recibieron bien, porque habían visto todo lo que había hecho en Jerusalén durante la fiesta, pues también ellos habían ido a la fiesta."
     },
     {
       "v": 46,
+      "ref": "jhn.4.46",
       "text": "Fue Jesús otra vez a Caná de Galilea, donde había convertido el agua en vino. Había un funcionario real que tenía un hijo enfermo en Cafarnaún."
     },
     {
       "v": 47,
+      "ref": "jhn.4.47",
       "text": "Oyendo que Jesús había llegado de Judea a Galilea, fue a verlo, y le pedía que bajase a curar a su hijo que estaba muriéndose."
     },
     {
       "v": 48,
+      "ref": "jhn.4.48",
       "text": "Jesús le dijo: «Si no veis signos y prodigios, no creéis»."
     },
     {
       "v": 49,
+      "ref": "jhn.4.49",
       "text": "El funcionario insiste: «Señor, baja antes de que se muera mi niño»."
     },
     {
       "v": 50,
+      "ref": "jhn.4.50",
       "text": "Jesús le contesta: «Anda, tu hijo vive». El hombre creyó en la palabra de Jesús y se puso en camino."
     },
     {
       "v": 51,
+      "ref": "jhn.4.51",
       "text": "Iba ya bajando, cuando sus criados vinieron a su encuentro diciéndole que su hijo vivía."
     },
     {
       "v": 52,
+      "ref": "jhn.4.52",
       "text": "Él les preguntó a qué hora había empezado la mejoría. Y le contestaron: «Ayer a la hora séptima lo dejó la fiebre»."
     },
     {
       "v": 53,
+      "ref": "jhn.4.53",
       "text": "El padre cayó en la cuenta de que esa era la hora en que Jesús le había dicho: «Tu hijo vive». Y creyó él con toda su familia."
     },
     {
       "v": 54,
+      "ref": "jhn.4.54",
       "text": "Este segundo signo lo hizo Jesús al llegar de Judea a Galilea."
     }
   ]

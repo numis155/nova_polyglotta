@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "job",
+  "chapter": 38,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "job.38.1",
+      "text": "El Señor habló a Job desde la tormenta:"
+    },
+    {
+      "v": 2,
+      "ref": "job.38.2",
+      "text": "«¿Quién es ese que enturbia mis designios sin saber siquiera de qué habla?"
+    },
+    {
+      "v": 3,
+      "ref": "job.38.3",
+      "text": "Si eres hombre, cíñete los lomos; voy a interrogarte y tú me instruirás."
+    },
+    {
+      "v": 4,
+      "ref": "job.38.4",
+      "text": "¿Dónde estabas cuando cimenté la tierra? Cuéntamelo, si tanto sabes."
+    },
+    {
+      "v": 5,
+      "ref": "job.38.5",
+      "text": "¿Quién señaló sus dimensiones (¡seguro que lo sabes!) o le aplicó la cinta de medir?"
+    },
+    {
+      "v": 6,
+      "ref": "job.38.6",
+      "text": "¿Dónde encaja su basamento o quién asentó su piedra angular"
+    },
+    {
+      "v": 7,
+      "ref": "job.38.7",
+      "text": "entre la aclamación unánime de los astros de la mañana y los vítores de los hijos de Dios?"
+    },
+    {
+      "v": 8,
+      "ref": "job.38.8",
+      "text": "¿Quién cerró el mar con una puerta, cuando escapaba impetuoso de su seno,"
+    },
+    {
+      "v": 9,
+      "ref": "job.38.9",
+      "text": "cuando le puse nubes por mantillas y nubes tormentosas por pañales,"
+    },
+    {
+      "v": 10,
+      "ref": "job.38.10",
+      "text": "cuando le establecí un límite poniendo puertas y cerrojos,"
+    },
+    {
+      "v": 11,
+      "ref": "job.38.11",
+      "text": "y le dije: “Hasta aquí llegarás y no pasarás; aquí se romperá la arrogancia de tus olas”?"
+    },
+    {
+      "v": 12,
+      "ref": "job.38.12",
+      "text": "¿Has mandado en tu vida a la mañana o señalado su puesto a la aurora,"
+    },
+    {
+      "v": 13,
+      "ref": "job.38.13",
+      "text": "para que agarre la tierra por los bordes y sacuda de ella a los malvados;"
+    },
+    {
+      "v": 14,
+      "ref": "job.38.14",
+      "text": "para marcarla como arcilla bajo el sello y teñirla lo mismo que un vestido;"
+    },
+    {
+      "v": 15,
+      "ref": "job.38.15",
+      "text": "para negar la luz a los malvados y quebrar el brazo sublevado?"
+    },
+    {
+      "v": 16,
+      "ref": "job.38.16",
+      "text": "¿Has entrado por las fuentes del Mar o paseado por la hondura del Océano?"
+    },
+    {
+      "v": 17,
+      "ref": "job.38.17",
+      "text": "¿Te han enseñado las puertas de la Muerte o has visto los portales de las Sombras?"
+    },
+    {
+      "v": 18,
+      "ref": "job.38.18",
+      "text": "¿Has examinado la anchura de la tierra? Cuéntamelo, si lo sabes todo."
+    },
+    {
+      "v": 19,
+      "ref": "job.38.19",
+      "text": "¿Por dónde se va a la casa de la luz?, ¿dónde viven las tinieblas?"
+    },
+    {
+      "v": 20,
+      "ref": "job.38.20",
+      "text": "¿Podrías conducirlas a su tierra o enseñarles el camino de su casa?"
+    },
+    {
+      "v": 21,
+      "ref": "job.38.21",
+      "text": "Lo sabrás, pues ya habías nacido y has cumplido tantísimos años."
+    },
+    {
+      "v": 22,
+      "ref": "job.38.22",
+      "text": "¿Has entrado en los silos de la nieve y observado los graneros del granizo,"
+    },
+    {
+      "v": 23,
+      "ref": "job.38.23",
+      "text": "que reservo para la hora del peligro, para el día de la guerra y del combate?"
+    },
+    {
+      "v": 24,
+      "ref": "job.38.24",
+      "text": "¿Por dónde se dispersa el relámpago, por dónde se difunde el viento del Este?"
+    },
+    {
+      "v": 25,
+      "ref": "job.38.25",
+      "text": "¿Quién ha abierto un canal al aguacero y una ruta al relámpago y al trueno,"
+    },
+    {
+      "v": 26,
+      "ref": "job.38.26",
+      "text": "para que llueva en las tierras despobladas, en la estepa no habitada por el hombre;"
+    },
+    {
+      "v": 27,
+      "ref": "job.38.27",
+      "text": "para que empape el desierto desolado y brote la hierba en el páramo?"
+    },
+    {
+      "v": 28,
+      "ref": "job.38.28",
+      "text": "¿Tiene padre la lluvia?, ¿quién engendra el rocío?,"
+    },
+    {
+      "v": 29,
+      "ref": "job.38.29",
+      "text": "¿de qué seno sale el hielo?, ¿quién da a luz la escarcha de los cielos,"
+    },
+    {
+      "v": 30,
+      "ref": "job.38.30",
+      "text": "cuando el agua se endurece como piedra y se cierra la superficie del Abismo?"
+    },
+    {
+      "v": 31,
+      "ref": "job.38.31",
+      "text": "¿Puedes atar los lazos de las Pléyades o soltar las riendas de Orión,"
+    },
+    {
+      "v": 32,
+      "ref": "job.38.32",
+      "text": "hacer salir a su tiempo al Zodíaco, guiar a la Osa y a sus crías?"
+    },
+    {
+      "v": 33,
+      "ref": "job.38.33",
+      "text": "¿Conoces las leyes del cielo y las haces cumplir en la tierra?"
+    },
+    {
+      "v": 34,
+      "ref": "job.38.34",
+      "text": "¿Puedes ordenar a las nubes que envíen sobre ti un chaparrón?"
+    },
+    {
+      "v": 35,
+      "ref": "job.38.35",
+      "text": "¿Tienes de mensajeros a los rayos, que vienen y te dicen: “A sus órdenes”?"
+    },
+    {
+      "v": 36,
+      "ref": "job.38.36",
+      "text": "¿Quién dio sabiduría al ibis o dotó de perspicacia al gallo?"
+    },
+    {
+      "v": 37,
+      "ref": "job.38.37",
+      "text": "¿Quién cuenta las nubes con acierto e inclina los cántaros del cielo,"
+    },
+    {
+      "v": 38,
+      "ref": "job.38.38",
+      "text": "cuando el polvo se funde en una masa y se pegan los terrones entre sí?"
+    },
+    {
+      "v": 39,
+      "ref": "job.38.39",
+      "text": "¿Le cazas la presa a la leona o sacias el hambre de sus crías,"
+    },
+    {
+      "v": 40,
+      "ref": "job.38.40",
+      "text": "cuando se encogen en sus cubiles o están al acecho en la maleza?"
+    },
+    {
+      "v": 41,
+      "ref": "job.38.41",
+      "text": "¿Quién prepara al cuervo su comida cuando sus crías graznan a Dios y aletean alocadas por el hambre?"
+    }
+  ]
+}

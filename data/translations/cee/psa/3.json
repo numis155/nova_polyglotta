@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 3,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.3.1",
+      "text": "Salmo de David cuando huía de su hijo Absalón."
+    },
+    {
+      "v": 2,
+      "ref": "psa.3.2",
+      "text": "Señor, cuántos son mis enemigos, cuántos se levantan contra mí;"
+    },
+    {
+      "v": 3,
+      "ref": "psa.3.3",
+      "text": "cuántos dicen de mí: «Ya no lo protege Dios». (Pausa)"
+    },
+    {
+      "v": 4,
+      "ref": "psa.3.4",
+      "text": "Pero tú, Señor, eres mi escudo y mi gloria, tú mantienes alta mi cabeza."
+    },
+    {
+      "v": 5,
+      "ref": "psa.3.5",
+      "text": "Si grito invocando al Señor, él me escucha desde su monte santo. (Pausa)"
+    },
+    {
+      "v": 6,
+      "ref": "psa.3.6",
+      "text": "Puedo acostarme y dormir y despertar: el Señor me sostiene."
+    },
+    {
+      "v": 7,
+      "ref": "psa.3.7",
+      "text": "No temeré al pueblo innumerable que acampa a mi alrededor."
+    },
+    {
+      "v": 8,
+      "ref": "psa.3.8",
+      "text": "Levántate, Señor; sálvame, Dios mío: tú golpeaste a mis enemigos en la mejilla, rompiste los dientes de los malvados."
+    },
+    {
+      "v": 9,
+      "ref": "psa.3.9",
+      "text": "De ti, Señor, viene la salvación y la bendición sobre tu pueblo. (Pausa)"
+    }
+  ]
+}

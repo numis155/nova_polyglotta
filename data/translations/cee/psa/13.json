@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 13,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.13.1",
+      "text": "Al Director. Salmo de David."
+    },
+    {
+      "v": 2,
+      "ref": "psa.13.2",
+      "text": "¿Hasta cuándo, Señor, seguirás olvidándome? ¿Hasta cuándo me esconderás tu rostro?"
+    },
+    {
+      "v": 3,
+      "ref": "psa.13.3",
+      "text": "¿Hasta cuándo he de estar preocupado, con el corazón apenado todo el día? ¿Hasta cuándo va a triunfar mi enemigo?"
+    },
+    {
+      "v": 4,
+      "ref": "psa.13.4",
+      "text": "Atiende y respóndeme, Señor, Dios mío; da luz a mis ojos para que no me duerma en la muerte,"
+    },
+    {
+      "v": 5,
+      "ref": "psa.13.5",
+      "text": "para que no diga mi enemigo: «Le he podido», ni se alegre mi adversario de mi fracaso."
+    },
+    {
+      "v": 6,
+      "ref": "psa.13.6",
+      "text": "Porque yo confío en tu misericordia: mi alma gozará con tu salvación, y cantaré al Señor por el bien que me ha hecho."
+    }
+  ]
+}

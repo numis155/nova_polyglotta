@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 14,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.14.1",
+      "text": "Psalmus David. Domine, quis habitabit in tabernaculo tuo ? aut quis requiescet in monte sancto tuo ?"
+    },
+    {
+      "v": 2,
+      "ref": "psa.14.2",
+      "text": "Qui ingreditur sine macula, et operatur justitiam ;"
+    },
+    {
+      "v": 3,
+      "ref": "psa.14.3",
+      "text": "qui loquitur veritatem in corde suo : qui non egit dolum in lingua sua, nec fecit proximo suo malum, et opprobrium non accepit adversus proximos suos."
+    },
+    {
+      "v": 4,
+      "ref": "psa.14.4",
+      "text": "Ad nihilum deductus est in conspectu ejus malignus ; timentes autem Dominum glorificat. Qui jurat proximo suo, et non decipit ;"
+    },
+    {
+      "v": 5,
+      "ref": "psa.14.5",
+      "text": "qui pecuniam suam non dedit ad usuram, et munera super innocentem non accepit : qui facit hæc non movebitur in æternum."
+    }
+  ]
+}

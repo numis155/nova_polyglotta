@@ -1,139 +1,173 @@
 {
+  "schemaVersion": 1,
   "translation": "cee",
   "book": "jhn",
   "chapter": 16,
   "verses": [
     {
       "v": 1,
+      "ref": "jhn.16.1",
       "text": "Os he hablado de esto, para que no os escandalicéis."
     },
     {
       "v": 2,
+      "ref": "jhn.16.2",
       "text": "Os excomulgarán de la sinagoga; más aún, llegará incluso una hora cuando el que os dé muerte pensará que da culto a Dios."
     },
     {
       "v": 3,
+      "ref": "jhn.16.3",
       "text": "Y esto lo harán porque no han conocido ni al Padre ni a mí."
     },
     {
       "v": 4,
+      "ref": "jhn.16.4",
       "text": "Os he hablado de esto para que, cuando llegue la hora, os acordéis de que yo os lo había dicho. No os dije estas cosas desde el principio porque estaba con vosotros."
     },
     {
       "v": 5,
+      "ref": "jhn.16.5",
       "text": "Ahora me voy al que me envió, y ninguno de vosotros me pregunta: “¿Adónde vas?”."
     },
     {
       "v": 6,
+      "ref": "jhn.16.6",
       "text": "Sino que, por haberos dicho esto, la tristeza os ha llenado el corazón."
     },
     {
       "v": 7,
+      "ref": "jhn.16.7",
       "text": "Sin embargo, os digo la verdad: os conviene que yo me vaya; porque si no me voy, no vendrá a vosotros el Paráclito. En cambio, si me voy, os lo enviaré."
     },
     {
       "v": 8,
+      "ref": "jhn.16.8",
       "text": "Y cuando venga, dejará convicto al mundo acerca de un pecado, de una justicia y de una condena."
     },
     {
       "v": 9,
+      "ref": "jhn.16.9",
       "text": "De un pecado, porque no creen en mí;"
     },
     {
       "v": 10,
+      "ref": "jhn.16.10",
       "text": "de una justicia, porque me voy al Padre, y no me veréis;"
     },
     {
       "v": 11,
+      "ref": "jhn.16.11",
       "text": "de una condena, porque el príncipe de este mundo está condenado."
     },
     {
       "v": 12,
+      "ref": "jhn.16.12",
       "text": "Muchas cosas me quedan por deciros, pero no podéis cargar con ellas por ahora;"
     },
     {
       "v": 13,
+      "ref": "jhn.16.13",
       "text": "cuando venga él, el Espíritu de la verdad, os guiará hasta la verdad plena. Pues no hablará por cuenta propia, sino que hablará de lo que oye y os comunicará lo que está por venir."
     },
     {
       "v": 14,
+      "ref": "jhn.16.14",
       "text": "Él me glorificará, porque recibirá de lo mío y os lo anunciará."
     },
     {
       "v": 15,
-      "text": "Todo lo que tiene el Padre es mío. Por eso os he dicho que recibirá y tomará de lo mío y os lo anunciará."
+      "ref": "jhn.16.15",
+      "text": "Todo lo que tiene el Padre es mío. Por eso os he dicho que recibirá y tomará de lo mío y os lo anunciará. 12,31. Despedida"
     },
     {
       "v": 16,
+      "ref": "jhn.16.16",
       "text": "Dentro de poco ya no me veréis, pero dentro de otro poco me volveréis a ver»."
     },
     {
       "v": 17,
+      "ref": "jhn.16.17",
       "text": "Comentaron entonces algunos discípulos: «¿Qué significa eso de “dentro de poco ya no me veréis, pero dentro de otro poco me volveréis a ver”, y eso de “me voy al Padre”?»."
     },
     {
       "v": 18,
+      "ref": "jhn.16.18",
       "text": "Y se preguntaban: «¿Qué significa ese “poco”? No entendemos lo que dice»."
     },
     {
       "v": 19,
+      "ref": "jhn.16.19",
       "text": "Comprendió Jesús que querían preguntarle y les dijo: «¿Estáis discutiendo de eso que os he dicho: “Dentro de poco ya no me veréis y dentro de otro poco me volveréis a ver”?"
     },
     {
       "v": 20,
+      "ref": "jhn.16.20",
       "text": "En verdad, en verdad os digo: vosotros lloraréis y os lamentaréis, mientras el mundo estará alegre; vosotros estaréis tristes, pero vuestra tristeza se convertirá en alegría."
     },
     {
       "v": 21,
+      "ref": "jhn.16.21",
       "text": "La mujer, cuando va a dar a luz, siente tristeza, porque ha llegado su hora; pero, en cuanto da a luz al niño, ni se acuerda del apuro, por la alegría de que al mundo le ha nacido un hombre."
     },
     {
       "v": 22,
+      "ref": "jhn.16.22",
       "text": "También vosotros ahora sentís tristeza; pero volveré a veros, y se alegrará vuestro corazón, y nadie os quitará vuestra alegría."
     },
     {
       "v": 23,
+      "ref": "jhn.16.23",
       "text": "Ese día no me preguntaréis nada. En verdad, en verdad os digo: si pedís algo al Padre en mi nombre, os lo dará."
     },
     {
       "v": 24,
+      "ref": "jhn.16.24",
       "text": "Hasta ahora no habéis pedido nada en mi nombre; pedid, y recibiréis, para que vuestra alegría sea completa."
     },
     {
       "v": 25,
+      "ref": "jhn.16.25",
       "text": "Os he hablado de esto en comparaciones; viene la hora en que ya no hablaré en comparaciones, sino que os hablaré del Padre claramente."
     },
     {
       "v": 26,
+      "ref": "jhn.16.26",
       "text": "Aquel día pediréis en mi nombre, y no os digo que yo rogaré al Padre por vosotros,"
     },
     {
       "v": 27,
+      "ref": "jhn.16.27",
       "text": "pues el Padre mismo os quiere, porque vosotros me queréis y creéis que yo salí de Dios."
     },
     {
       "v": 28,
+      "ref": "jhn.16.28",
       "text": "Salí del Padre y he venido al mundo, otra vez dejo el mundo y me voy al Padre»."
     },
     {
       "v": 29,
+      "ref": "jhn.16.29",
       "text": "Le dicen sus discípulos: «Ahora sí que hablas claro y no usas comparaciones."
     },
     {
       "v": 30,
+      "ref": "jhn.16.30",
       "text": "Ahora vemos que lo sabes todo y no necesitas que te pregunten; por ello creemos que has salido de Dios»."
     },
     {
       "v": 31,
+      "ref": "jhn.16.31",
       "text": "Les contestó Jesús: «¿Ahora creéis?"
     },
     {
       "v": 32,
+      "ref": "jhn.16.32",
       "text": "Pues mirad: está para llegar la hora, mejor, ya ha llegado, en que os disperséis cada cual por su lado y a mí me dejéis solo. Pero no estoy solo, porque está conmigo el Padre."
     },
     {
       "v": 33,
-      "text": "Os he hablado de esto, para que encontréis la paz en mí. En el mundo tendréis luchas; pero tened valor: yo he vencido al mundo»."
+      "ref": "jhn.16.33",
+      "text": "Os he hablado de esto, para que encontréis la paz en mí. En el mundo tendréis luchas; pero tened valor: yo he vencido al mundo». Mt 26,31 par. Oración sacerdotal"
     }
   ]
 }

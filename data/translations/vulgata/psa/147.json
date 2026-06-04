@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 147,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.147.1",
+      "text": "Alleluja. Lauda, Jerusalem, Dominum ; lauda Deum tuum, Sion."
+    },
+    {
+      "v": 2,
+      "ref": "psa.147.2",
+      "text": "Quoniam confortavit seras portarum tuarum ; benedixit filiis tuis in te."
+    },
+    {
+      "v": 3,
+      "ref": "psa.147.3",
+      "text": "Qui posuit fines tuos pacem, et adipe frumenti satiat te."
+    },
+    {
+      "v": 4,
+      "ref": "psa.147.4",
+      "text": "Qui emittit eloquium suum terræ : velociter currit sermo ejus."
+    },
+    {
+      "v": 5,
+      "ref": "psa.147.5",
+      "text": "Qui dat nivem sicut lanam ; nebulam sicut cinerem spargit."
+    },
+    {
+      "v": 6,
+      "ref": "psa.147.6",
+      "text": "Mittit crystallum suam sicut buccellas : ante faciem frigoris ejus quis sustinebit ?"
+    },
+    {
+      "v": 7,
+      "ref": "psa.147.7",
+      "text": "Emittet verbum suum, et liquefaciet ea ; flabit spiritus ejus, et fluent aquæ."
+    },
+    {
+      "v": 8,
+      "ref": "psa.147.8",
+      "text": "Qui annuntiat verbum suum Jacob, justitias et judicia sua Israël."
+    },
+    {
+      "v": 9,
+      "ref": "psa.147.9",
+      "text": "Non fecit taliter omni nationi, et judicia sua non manifestavit eis. Alleluja."
+    }
+  ]
+}

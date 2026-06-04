@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "neh",
+  "chapter": 7,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "neh.7.1",
+      "text": "Terminada la muralla, y tras haber colocado las hojas de las puertas, los porteros, los cantores y los levitas quedaron encargados de la vigilancia."
+    },
+    {
+      "v": 2,
+      "ref": "neh.7.2",
+      "text": "Puse al frente de Jerusalén a mi hermano Jananí y a Jananías, gobernador de la ciudadela, porque era un hombre más fiel y temeroso de Dios que otros,"
+    },
+    {
+      "v": 3,
+      "ref": "neh.7.3",
+      "text": "y les dije: «Las puertas de Jerusalén no se abrirán hasta que el sol comience a calentar. Se cerrarán y se echarán los candados antes que se ponga. Los habitantes de Jerusalén harán guardia, unos en su puesto y otros delante de su propia casa»."
+    },
+    {
+      "v": 4,
+      "ref": "neh.7.4",
+      "text": "La ciudad era espaciosa y grande, pero estaba poco poblada y no se construían casas."
+    },
+    {
+      "v": 5,
+      "ref": "neh.7.5",
+      "text": "Mi Dios me inspiró la idea de reunir a los nobles, a los prefectos y al pueblo para hacer el censo. Tomé el libro del registro genealógico de los que habían vuelto la primera vez, y encontré escrito en él:"
+    },
+    {
+      "v": 6,
+      "ref": "neh.7.6",
+      "text": "Estos son los habitantes de la provincia que regresaron del cautiverio, a quienes había deportado Nabucodonosor, rey de Babilonia, y que volvieron a Jerusalén y Judá, cada uno a su ciudad."
+    },
+    {
+      "v": 7,
+      "ref": "neh.7.7",
+      "text": "Vinieron con Zorobabel, Josué, Nehemías, Azarías, Raamías, Najamaní, Mardoqueo, Bilsán, Mispéret, Bigvay, Najún y Baaná. El número de los hombres del pueblo de Israel fue el siguiente:"
+    },
+    {
+      "v": 8,
+      "ref": "neh.7.8",
+      "text": "Descendientes de Parós: dos mil ciento setenta y dos;"
+    },
+    {
+      "v": 9,
+      "ref": "neh.7.9",
+      "text": "descendientes de Sefatías, trescientos setenta y dos;"
+    },
+    {
+      "v": 10,
+      "ref": "neh.7.10",
+      "text": "descendientes de Araj, seiscientos cincuenta y dos;"
+    },
+    {
+      "v": 11,
+      "ref": "neh.7.11",
+      "text": "descendientes de Pajat-Moab, descendientes de Josué y Joab, dos mil ochocientos dieciocho;"
+    },
+    {
+      "v": 12,
+      "ref": "neh.7.12",
+      "text": "descendientes de Elán, mil doscientos cincuenta y cuatro;"
+    },
+    {
+      "v": 13,
+      "ref": "neh.7.13",
+      "text": "descendientes de Zatú, ochocientos cuarenta y cinco;"
+    },
+    {
+      "v": 14,
+      "ref": "neh.7.14",
+      "text": "descendientes de Zacay, setecientos setenta;"
+    },
+    {
+      "v": 15,
+      "ref": "neh.7.15",
+      "text": "descendientes de Binuy, seiscientos cuarenta y ocho;"
+    },
+    {
+      "v": 16,
+      "ref": "neh.7.16",
+      "text": "descendientes de Bebay, seiscientos veintiocho;"
+    },
+    {
+      "v": 17,
+      "ref": "neh.7.17",
+      "text": "descendientes de Azgad, dos mil trescientos veintidós;"
+    },
+    {
+      "v": 18,
+      "ref": "neh.7.18",
+      "text": "descendientes de Adonicán, seiscientos sesenta y siete;"
+    },
+    {
+      "v": 19,
+      "ref": "neh.7.19",
+      "text": "descendientes de Bigvay, dos mil sesenta y siete;"
+    },
+    {
+      "v": 20,
+      "ref": "neh.7.20",
+      "text": "descendientes de Adín, seiscientos cincuenta y cinco;"
+    },
+    {
+      "v": 21,
+      "ref": "neh.7.21",
+      "text": "descendientes de Ater, esto es, descendientes de Ezequías, noventa y ocho;"
+    },
+    {
+      "v": 22,
+      "ref": "neh.7.22",
+      "text": "descendientes de Jasún, trescientos veintiocho;"
+    },
+    {
+      "v": 23,
+      "ref": "neh.7.23",
+      "text": "descendientes de Besay, trescientos veinticuatro;"
+    },
+    {
+      "v": 24,
+      "ref": "neh.7.24",
+      "text": "descendientes de Jarif, ciento doce."
+    },
+    {
+      "v": 25,
+      "ref": "neh.7.25",
+      "text": "Hombres oriundos de Gabaón, noventa y cinco;"
+    },
+    {
+      "v": 26,
+      "ref": "neh.7.26",
+      "text": "oriundos de Belén y Netofá, ciento ochenta y ocho;"
+    },
+    {
+      "v": 27,
+      "ref": "neh.7.27",
+      "text": "oriundos de Anatot, ciento veintiocho;"
+    },
+    {
+      "v": 28,
+      "ref": "neh.7.28",
+      "text": "oriundos de Betazmávet, cuarenta y dos;"
+    },
+    {
+      "v": 29,
+      "ref": "neh.7.29",
+      "text": "oriundos de Quiriat Yearín, Quefirá y Beerot, setecientos cuarenta y tres;"
+    },
+    {
+      "v": 30,
+      "ref": "neh.7.30",
+      "text": "oriundos de Ramá y Gueba, seiscientos veintiuno;"
+    },
+    {
+      "v": 31,
+      "ref": "neh.7.31",
+      "text": "oriundos de Micmás, ciento veintidós;"
+    },
+    {
+      "v": 32,
+      "ref": "neh.7.32",
+      "text": "oriundos de Betel y Ay, ciento veintitrés."
+    },
+    {
+      "v": 33,
+      "ref": "neh.7.33",
+      "text": "Descendientes de Nebo, cincuenta y dos;"
+    },
+    {
+      "v": 34,
+      "ref": "neh.7.34",
+      "text": "descendientes del otro Elán, mil doscientos cincuenta y cuatro;"
+    },
+    {
+      "v": 35,
+      "ref": "neh.7.35",
+      "text": "descendientes de Jarín, trescientos veinte;"
+    },
+    {
+      "v": 36,
+      "ref": "neh.7.36",
+      "text": "descendientes de Jericó, trescientos cuarenta y cinco;"
+    },
+    {
+      "v": 37,
+      "ref": "neh.7.37",
+      "text": "descendientes de Lod, Jadid y Onó, setecientos veinticinco;"
+    },
+    {
+      "v": 38,
+      "ref": "neh.7.38",
+      "text": "descendientes de Senaá, tres mil novecientos treinta."
+    },
+    {
+      "v": 39,
+      "ref": "neh.7.39",
+      "text": "Los sacerdotes eran estos: descendientes de Yedaías, de la parentela de Josué, novecientos setenta y tres;"
+    },
+    {
+      "v": 40,
+      "ref": "neh.7.40",
+      "text": "descendientes de Imer, mil cincuenta y dos;"
+    },
+    {
+      "v": 41,
+      "ref": "neh.7.41",
+      "text": "descendientes de Pasjur, mil doscientos cuarenta y siete;"
+    },
+    {
+      "v": 42,
+      "ref": "neh.7.42",
+      "text": "descendientes de Jarín, mil diecisiete."
+    },
+    {
+      "v": 43,
+      "ref": "neh.7.43",
+      "text": "Los levitas eran los siguientes: descendientes de Josué y de Cadmiel, de la familia de Hodías, setenta y cuatro."
+    },
+    {
+      "v": 44,
+      "ref": "neh.7.44",
+      "text": "Los cantores eran ciento cuarenta y ocho descendientes de Asaf."
+    },
+    {
+      "v": 45,
+      "ref": "neh.7.45",
+      "text": "Los porteros eran ciento treinta y ocho descendientes de Salún, de Ater, de Talmón, de Acub, de Jatitay y de Sobay."
+    },
+    {
+      "v": 46,
+      "ref": "neh.7.46",
+      "text": "Los donados eran descendientes de Sijá, de Jasufá, de Tabaot,"
+    },
+    {
+      "v": 47,
+      "ref": "neh.7.47",
+      "text": "de Querós, de Siahá, de Padón,"
+    },
+    {
+      "v": 48,
+      "ref": "neh.7.48",
+      "text": "de Lebaná, de Jagabá, de Salmay,"
+    },
+    {
+      "v": 49,
+      "ref": "neh.7.49",
+      "text": "de Janán, de Guidel, de Gajar,"
+    },
+    {
+      "v": 50,
+      "ref": "neh.7.50",
+      "text": "de Reayá, de Resín, de Necodá,"
+    },
+    {
+      "v": 51,
+      "ref": "neh.7.51",
+      "text": "de Gazán, de Uzá, de Paséaj,"
+    },
+    {
+      "v": 52,
+      "ref": "neh.7.52",
+      "text": "de Besay, de Meunín, de Nefusín,"
+    },
+    {
+      "v": 53,
+      "ref": "neh.7.53",
+      "text": "de Bacbuc, de Jacufá, de Jarjur,"
+    },
+    {
+      "v": 54,
+      "ref": "neh.7.54",
+      "text": "de Baslut, de Mejidá, de Jarsá,"
+    },
+    {
+      "v": 55,
+      "ref": "neh.7.55",
+      "text": "de Barcós, de Siserá, de Témaj,"
+    },
+    {
+      "v": 56,
+      "ref": "neh.7.56",
+      "text": "de Nesíaj y de Jatifá."
+    },
+    {
+      "v": 57,
+      "ref": "neh.7.57",
+      "text": "Los siervos de Salomón eran descendientes de Sotay, de Soféret, de Perudá,"
+    },
+    {
+      "v": 58,
+      "ref": "neh.7.58",
+      "text": "de Yaalá, de Darcón, de Guidel,"
+    },
+    {
+      "v": 59,
+      "ref": "neh.7.59",
+      "text": "de Sefatías, de Jatil, de Poqueret Hasebáin y de Amón."
+    },
+    {
+      "v": 60,
+      "ref": "neh.7.60",
+      "text": "El total de donados y de siervos de Salomón se elevaba a trescientos noventa y dos."
+    },
+    {
+      "v": 61,
+      "ref": "neh.7.61",
+      "text": "Estos son los que regresaron de Tel-Mélaj, Tel-Jarsá, Querub, Addón e Imer, pero no pudieron demostrar que su familia paterna y su estirpe procedían de Israel:"
+    },
+    {
+      "v": 62,
+      "ref": "neh.7.62",
+      "text": "seiscientos cuarenta y dos descendientes de Delaías, de Tobías y de Necodá;"
+    },
+    {
+      "v": 63,
+      "ref": "neh.7.63",
+      "text": "y de los sacerdotes, los descendientes de Jobaías, de Hacós y de Barzilay, el que se había casado con una de las hijas de Barzilay, el galaadita, y que adoptó el nombre de ellas."
+    },
+    {
+      "v": 64,
+      "ref": "neh.7.64",
+      "text": "Estos buscaron sus títulos genealógicos, pero no los encontraron, por lo que fueron excluidos del sacerdocio."
+    },
+    {
+      "v": 65,
+      "ref": "neh.7.65",
+      "text": "El gobernador les prohibió comer alimentos sagrados hasta que se presentase un sacerdote para consultar los urim y los tumim."
+    },
+    {
+      "v": 66,
+      "ref": "neh.7.66",
+      "text": "La comunidad, al completo, estaba integrada por cuarenta y dos mil trescientas sesenta personas,"
+    },
+    {
+      "v": 67,
+      "ref": "neh.7.67",
+      "text": "sin contar sus esclavos y esclavas, que eran siete mil trescientos treinta y siete. También había doscientos cuarenta y cinco cantores y cantoras."
+    },
+    {
+      "v": 68,
+      "ref": "neh.7.68",
+      "text": "Disponían de setecientos treinta y seis caballos y doscientos cuarenta y cinco mulos. Tenían también cuatrocientos treinta y cinco camellos y seis mil setecientos veinte asnos."
+    },
+    {
+      "v": 69,
+      "ref": "neh.7.69",
+      "text": "Algunos de los cabezas de familia hicieron donativos para la obra. El gobernador ofrendó al tesoro mil dracmas de oro, cincuenta jarras y quinientas treinta túnicas sacerdotales."
+    },
+    {
+      "v": 70,
+      "ref": "neh.7.70",
+      "text": "Otros cabezas de familia depositaron en el tesoro de la obra veinte mil dracmas de oro y dos mil doscientas minas de plata."
+    },
+    {
+      "v": 71,
+      "ref": "neh.7.71",
+      "text": "El resto del pueblo entregó veinte mil dracmas de oro, dos mil minas de plata y sesenta y siete túnicas sacerdotales."
+    },
+    {
+      "v": 72,
+      "ref": "neh.7.72",
+      "text": "Los sacerdotes, los levitas, los porteros, los cantores y parte del pueblo, los donados y todos los israelitas se establecieron en sus ciudades. Así, llegado el mes séptimo, los hijos de Israel ya vivían en sus ciudades."
+    }
+  ]
+}

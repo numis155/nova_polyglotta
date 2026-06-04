@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 101,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.101.1",
+      "text": "Salmo de David. Voy a cantar la bondad y la justicia, para ti es mi música, Señor;"
+    },
+    {
+      "v": 2,
+      "ref": "psa.101.2",
+      "text": "voy a explicar el camino perfecto: ¿cuándo vendrás a mí? Andaré con rectitud de corazón dentro de mi casa;"
+    },
+    {
+      "v": 3,
+      "ref": "psa.101.3",
+      "text": "no pondré mis ojos en intenciones viles. Aborrezco al que obra mal, no se juntará conmigo."
+    },
+    {
+      "v": 4,
+      "ref": "psa.101.4",
+      "text": "Lejos de mí el corazón torcido, no aprobaré al malvado."
+    },
+    {
+      "v": 5,
+      "ref": "psa.101.5",
+      "text": "Al que en secreto difama a su prójimo lo haré callar; ojos engreídos, corazones arrogantes no los soportaré."
+    },
+    {
+      "v": 6,
+      "ref": "psa.101.6",
+      "text": "Pongo mis ojos en los que son leales, ellos vivirán conmigo; el que sigue un camino perfecto, ese me servirá."
+    },
+    {
+      "v": 7,
+      "ref": "psa.101.7",
+      "text": "No habitará en mi casa el que actúa con soberbia; el que dice mentiras no durará en mi presencia."
+    },
+    {
+      "v": 8,
+      "ref": "psa.101.8",
+      "text": "Cada mañana haré callar a los hombres malvados, para excluir de la ciudad del Señor a todos los malhechores."
+    }
+  ]
+}

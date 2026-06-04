@@ -1,0 +1,888 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 118,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.118.1",
+      "text": "Alleluja. ALEPH. Beati immaculati in via, qui ambulant in lege Domini."
+    },
+    {
+      "v": 2,
+      "ref": "psa.118.2",
+      "text": "Beati qui scrutantur testimonia ejus ; in toto corde exquirunt eum."
+    },
+    {
+      "v": 3,
+      "ref": "psa.118.3",
+      "text": "Non enim qui operantur iniquitatem in viis ejus ambulaverunt."
+    },
+    {
+      "v": 4,
+      "ref": "psa.118.4",
+      "text": "Tu mandasti mandata tua custodiri nimis."
+    },
+    {
+      "v": 5,
+      "ref": "psa.118.5",
+      "text": "Utinam dirigantur viæ meæ ad custodiendas justificationes tuas."
+    },
+    {
+      "v": 6,
+      "ref": "psa.118.6",
+      "text": "Tunc non confundar, cum perspexero in omnibus mandatis tuis."
+    },
+    {
+      "v": 7,
+      "ref": "psa.118.7",
+      "text": "Confitebor tibi in directione cordis, in eo quod didici judicia justitiæ tuæ."
+    },
+    {
+      "v": 8,
+      "ref": "psa.118.8",
+      "text": "Justificationes tuas custodiam ; non me derelinquas usquequaque."
+    },
+    {
+      "v": 9,
+      "ref": "psa.118.9",
+      "text": "BETH. In quo corrigit adolescentior viam suam ? in custodiendo sermones tuos."
+    },
+    {
+      "v": 10,
+      "ref": "psa.118.10",
+      "text": "In toto corde meo exquisivi te ; ne repellas me a mandatis tuis."
+    },
+    {
+      "v": 11,
+      "ref": "psa.118.11",
+      "text": "In corde meo abscondi eloquia tua, ut non peccem tibi."
+    },
+    {
+      "v": 12,
+      "ref": "psa.118.12",
+      "text": "Benedictus es, Domine ; doce me justificationes tuas."
+    },
+    {
+      "v": 13,
+      "ref": "psa.118.13",
+      "text": "In labiis meis pronuntiavi omnia judicia oris tui."
+    },
+    {
+      "v": 14,
+      "ref": "psa.118.14",
+      "text": "In via testimoniorum tuorum delectatus sum, sicut in omnibus divitiis."
+    },
+    {
+      "v": 15,
+      "ref": "psa.118.15",
+      "text": "In mandatis tuis exercebor, et considerabo vias tuas."
+    },
+    {
+      "v": 16,
+      "ref": "psa.118.16",
+      "text": "In justificationibus tuis meditabor : non obliviscar sermones tuos."
+    },
+    {
+      "v": 17,
+      "ref": "psa.118.17",
+      "text": "GHIMEL. Retribue servo tuo, vivifica me, et custodiam sermones tuos."
+    },
+    {
+      "v": 18,
+      "ref": "psa.118.18",
+      "text": "Revela oculos meos, et considerabo mirabilia de lege tua."
+    },
+    {
+      "v": 19,
+      "ref": "psa.118.19",
+      "text": "Incola ego sum in terra : non abscondas a me mandata tua."
+    },
+    {
+      "v": 20,
+      "ref": "psa.118.20",
+      "text": "Concupivit anima mea desiderare justificationes tuas in omni tempore."
+    },
+    {
+      "v": 21,
+      "ref": "psa.118.21",
+      "text": "Increpasti superbos ; maledicti qui declinant a mandatis tuis."
+    },
+    {
+      "v": 22,
+      "ref": "psa.118.22",
+      "text": "Aufer a me opprobrium et contemptum, quia testimonia tua exquisivi."
+    },
+    {
+      "v": 23,
+      "ref": "psa.118.23",
+      "text": "Etenim sederunt principes, et adversum me loquebantur ; servus autem tuus exercebatur in justificationibus tuis."
+    },
+    {
+      "v": 24,
+      "ref": "psa.118.24",
+      "text": "Nam et testimonia tua meditatio mea est, et consilium meum justificationes tuæ."
+    },
+    {
+      "v": 25,
+      "ref": "psa.118.25",
+      "text": "DALETH. Adhæsit pavimento anima mea : vivifica me secundum verbum tuum."
+    },
+    {
+      "v": 26,
+      "ref": "psa.118.26",
+      "text": "Vias meas enuntiavi, et exaudisti me ; doce me justificationes tuas."
+    },
+    {
+      "v": 27,
+      "ref": "psa.118.27",
+      "text": "Viam justificationum tuarum instrue me, et exercebor in mirabilibus tuis."
+    },
+    {
+      "v": 28,
+      "ref": "psa.118.28",
+      "text": "Dormitavit anima mea præ tædio : confirma me in verbis tuis."
+    },
+    {
+      "v": 29,
+      "ref": "psa.118.29",
+      "text": "Viam iniquitatis amove a me, et de lege tua miserere mei."
+    },
+    {
+      "v": 30,
+      "ref": "psa.118.30",
+      "text": "Viam veritatis elegi ; judicia tua non sum oblitus."
+    },
+    {
+      "v": 31,
+      "ref": "psa.118.31",
+      "text": "Adhæsi testimoniis tuis, Domine ; noli me confundere."
+    },
+    {
+      "v": 32,
+      "ref": "psa.118.32",
+      "text": "Viam mandatorum tuorum cucurri, cum dilatasti cor meum."
+    },
+    {
+      "v": 33,
+      "ref": "psa.118.33",
+      "text": "HE. Legem pone mihi, Domine, viam justificationum tuarum, et exquiram eam semper."
+    },
+    {
+      "v": 34,
+      "ref": "psa.118.34",
+      "text": "Da mihi intellectum, et scrutabor legem tuam, et custodiam illam in toto corde meo."
+    },
+    {
+      "v": 35,
+      "ref": "psa.118.35",
+      "text": "Deduc me in semitam mandatorum tuorum, quia ipsam volui."
+    },
+    {
+      "v": 36,
+      "ref": "psa.118.36",
+      "text": "Inclina cor meum in testimonia tua, et non in avaritiam."
+    },
+    {
+      "v": 37,
+      "ref": "psa.118.37",
+      "text": "Averte oculos meos, ne videant vanitatem ; in via tua vivifica me."
+    },
+    {
+      "v": 38,
+      "ref": "psa.118.38",
+      "text": "Statue servo tuo eloquium tuum in timore tuo."
+    },
+    {
+      "v": 39,
+      "ref": "psa.118.39",
+      "text": "Amputa opprobrium meum quod suspicatus sum, quia judicia tua jucunda."
+    },
+    {
+      "v": 40,
+      "ref": "psa.118.40",
+      "text": "Ecce concupivi mandata tua : in æquitate tua vivifica me."
+    },
+    {
+      "v": 41,
+      "ref": "psa.118.41",
+      "text": "VAU. Et veniat super me misericordia tua, Domine ; salutare tuum secundum eloquium tuum."
+    },
+    {
+      "v": 42,
+      "ref": "psa.118.42",
+      "text": "Et respondebo exprobrantibus mihi verbum, quia speravi in sermonibus tuis."
+    },
+    {
+      "v": 43,
+      "ref": "psa.118.43",
+      "text": "Et ne auferas de ore meo verbum veritatis usquequaque, quia in judiciis tuis supersperavi."
+    },
+    {
+      "v": 44,
+      "ref": "psa.118.44",
+      "text": "Et custodiam legem tuam semper, in sæculum et in sæculum sæculi."
+    },
+    {
+      "v": 45,
+      "ref": "psa.118.45",
+      "text": "Et ambulabam in latitudine, quia mandata tua exquisivi."
+    },
+    {
+      "v": 46,
+      "ref": "psa.118.46",
+      "text": "Et loquebar in testimoniis tuis in conspectu regum, et non confundebar."
+    },
+    {
+      "v": 47,
+      "ref": "psa.118.47",
+      "text": "Et meditabar in mandatis tuis, quæ dilexi."
+    },
+    {
+      "v": 48,
+      "ref": "psa.118.48",
+      "text": "Et levavi manus meas ad mandata tua, quæ dilexi, et exercebar in justificationibus tuis."
+    },
+    {
+      "v": 49,
+      "ref": "psa.118.49",
+      "text": "ZAIN. Memor esto verbi tui servo tuo, in quo mihi spem dedisti."
+    },
+    {
+      "v": 50,
+      "ref": "psa.118.50",
+      "text": "Hæc me consolata est in humilitate mea, quia eloquium tuum vivificavit me."
+    },
+    {
+      "v": 51,
+      "ref": "psa.118.51",
+      "text": "Superbi inique agebant usquequaque ; a lege autem tua non declinavi."
+    },
+    {
+      "v": 52,
+      "ref": "psa.118.52",
+      "text": "Memor fui judiciorum tuorum a sæculo, Domine, et consolatus sum."
+    },
+    {
+      "v": 53,
+      "ref": "psa.118.53",
+      "text": "Defectio tenuit me, pro peccatoribus derelinquentibus legem tuam."
+    },
+    {
+      "v": 54,
+      "ref": "psa.118.54",
+      "text": "Cantabiles mihi erant justificationes tuæ in loco peregrinationis meæ."
+    },
+    {
+      "v": 55,
+      "ref": "psa.118.55",
+      "text": "Memor fui nocte nominis tui, Domine, et custodivi legem tuam."
+    },
+    {
+      "v": 56,
+      "ref": "psa.118.56",
+      "text": "Hæc facta est mihi, quia justificationes tuas exquisivi."
+    },
+    {
+      "v": 57,
+      "ref": "psa.118.57",
+      "text": "HETH. Portio mea, Domine, dixi custodire legem tuam."
+    },
+    {
+      "v": 58,
+      "ref": "psa.118.58",
+      "text": "Deprecatus sum faciem tuam in toto corde meo ; miserere mei secundum eloquium tuum."
+    },
+    {
+      "v": 59,
+      "ref": "psa.118.59",
+      "text": "Cogitavi vias meas, et converti pedes meos in testimonia tua."
+    },
+    {
+      "v": 60,
+      "ref": "psa.118.60",
+      "text": "Paratus sum, et non sum turbatus, ut custodiam mandata tua."
+    },
+    {
+      "v": 61,
+      "ref": "psa.118.61",
+      "text": "Funes peccatorum circumplexi sunt me, et legem tuam non sum oblitus."
+    },
+    {
+      "v": 62,
+      "ref": "psa.118.62",
+      "text": "Media nocte surgebam ad confitendum tibi, super judicia justificationis tuæ."
+    },
+    {
+      "v": 63,
+      "ref": "psa.118.63",
+      "text": "Particeps ego sum omnium timentium te, et custodientium mandata tua."
+    },
+    {
+      "v": 64,
+      "ref": "psa.118.64",
+      "text": "Misericordia tua, Domine, plena est terra ; justificationes tuas doce me."
+    },
+    {
+      "v": 65,
+      "ref": "psa.118.65",
+      "text": "TETH. Bonitatem fecisti cum servo tuo, Domine, secundum verbum tuum."
+    },
+    {
+      "v": 66,
+      "ref": "psa.118.66",
+      "text": "Bonitatem, et disciplinam, et scientiam doce me, quia mandatis tuis credidi."
+    },
+    {
+      "v": 67,
+      "ref": "psa.118.67",
+      "text": "Priusquam humiliarer ego deliqui : propterea eloquium tuum custodivi."
+    },
+    {
+      "v": 68,
+      "ref": "psa.118.68",
+      "text": "Bonus es tu, et in bonitate tua doce me justificationes tuas."
+    },
+    {
+      "v": 69,
+      "ref": "psa.118.69",
+      "text": "Multiplicata est super me iniquitas superborum ; ego autem in toto corde meo scrutabor mandata tua."
+    },
+    {
+      "v": 70,
+      "ref": "psa.118.70",
+      "text": "Coagulatum est sicut lac cor eorum ; ego vero legem tuam meditatus sum."
+    },
+    {
+      "v": 71,
+      "ref": "psa.118.71",
+      "text": "Bonum mihi quia humiliasti me, ut discam justificationes tuas."
+    },
+    {
+      "v": 72,
+      "ref": "psa.118.72",
+      "text": "Bonum mihi lex oris tui, super millia auri et argenti."
+    },
+    {
+      "v": 73,
+      "ref": "psa.118.73",
+      "text": "JOD. Manus tuæ fecerunt me, et plasmaverunt me : da mihi intellectum, et discam mandata tua."
+    },
+    {
+      "v": 74,
+      "ref": "psa.118.74",
+      "text": "Qui timent te videbunt me et lætabuntur, quia in verba tua supersperavi."
+    },
+    {
+      "v": 75,
+      "ref": "psa.118.75",
+      "text": "Cognovi, Domine, quia æquitas judicia tua, et in veritate tua humiliasti me."
+    },
+    {
+      "v": 76,
+      "ref": "psa.118.76",
+      "text": "Fiat misericordia tua ut consoletur me, secundum eloquium tuum servo tuo."
+    },
+    {
+      "v": 77,
+      "ref": "psa.118.77",
+      "text": "Veniant mihi miserationes tuæ, et vivam, quia lex tua meditatio mea est."
+    },
+    {
+      "v": 78,
+      "ref": "psa.118.78",
+      "text": "Confundantur superbi, quia injuste iniquitatem fecerunt in me ; ego autem exercebor in mandatis tuis."
+    },
+    {
+      "v": 79,
+      "ref": "psa.118.79",
+      "text": "Convertantur mihi timentes te, et qui noverunt testimonia tua."
+    },
+    {
+      "v": 80,
+      "ref": "psa.118.80",
+      "text": "Fiat cor meum immaculatum in justificationibus tuis, ut non confundar."
+    },
+    {
+      "v": 81,
+      "ref": "psa.118.81",
+      "text": "CAPH. Defecit in salutare tuum anima mea, et in verbum tuum supersperavi."
+    },
+    {
+      "v": 82,
+      "ref": "psa.118.82",
+      "text": "Defecerunt oculi mei in eloquium tuum, dicentes : Quando consolaberis me ?"
+    },
+    {
+      "v": 83,
+      "ref": "psa.118.83",
+      "text": "Quia factus sum sicut uter in pruina ; justificationes tuas non sum oblitus."
+    },
+    {
+      "v": 84,
+      "ref": "psa.118.84",
+      "text": "Quot sunt dies servi tui ? quando facies de persequentibus me judicium ?"
+    },
+    {
+      "v": 85,
+      "ref": "psa.118.85",
+      "text": "Narraverunt mihi iniqui fabulationes, sed non ut lex tua."
+    },
+    {
+      "v": 86,
+      "ref": "psa.118.86",
+      "text": "Omnia mandata tua veritas : inique persecuti sunt me, adjuva me."
+    },
+    {
+      "v": 87,
+      "ref": "psa.118.87",
+      "text": "Paulominus consummaverunt me in terra ; ego autem non dereliqui mandata tua."
+    },
+    {
+      "v": 88,
+      "ref": "psa.118.88",
+      "text": "Secundum misericordiam tuam vivifica me, et custodiam testimonia oris tui."
+    },
+    {
+      "v": 89,
+      "ref": "psa.118.89",
+      "text": "LAMED. In æternum, Domine, verbum tuum permanet in cælo."
+    },
+    {
+      "v": 90,
+      "ref": "psa.118.90",
+      "text": "In generationem et generationem veritas tua ; fundasti terram, et permanet."
+    },
+    {
+      "v": 91,
+      "ref": "psa.118.91",
+      "text": "Ordinatione tua perseverat dies, quoniam omnia serviunt tibi."
+    },
+    {
+      "v": 92,
+      "ref": "psa.118.92",
+      "text": "Nisi quod lex tua meditatio mea est, tunc forte periissem in humilitate mea."
+    },
+    {
+      "v": 93,
+      "ref": "psa.118.93",
+      "text": "In æternum non obliviscar justificationes tuas, quia in ipsis vivificasti me."
+    },
+    {
+      "v": 94,
+      "ref": "psa.118.94",
+      "text": "Tuus sum ego ; salvum me fac : quoniam justificationes tuas exquisivi."
+    },
+    {
+      "v": 95,
+      "ref": "psa.118.95",
+      "text": "Me exspectaverunt peccatores ut perderent me ; testimonia tua intellexi."
+    },
+    {
+      "v": 96,
+      "ref": "psa.118.96",
+      "text": "Omnis consummationis vidi finem, latum mandatum tuum nimis."
+    },
+    {
+      "v": 97,
+      "ref": "psa.118.97",
+      "text": "MEM. Quomodo dilexi legem tuam, Domine ! tota die meditatio mea est."
+    },
+    {
+      "v": 98,
+      "ref": "psa.118.98",
+      "text": "Super inimicos meos prudentem me fecisti mandato tuo, quia in æternum mihi est."
+    },
+    {
+      "v": 99,
+      "ref": "psa.118.99",
+      "text": "Super omnes docentes me intellexi, quia testimonia tua meditatio mea est."
+    },
+    {
+      "v": 100,
+      "ref": "psa.118.100",
+      "text": "Super senes intellexi, quia mandata tua quæsivi."
+    },
+    {
+      "v": 101,
+      "ref": "psa.118.101",
+      "text": "Ab omni via mala prohibui pedes meos, ut custodiam verba tua."
+    },
+    {
+      "v": 102,
+      "ref": "psa.118.102",
+      "text": "A judiciis tuis non declinavi, quia tu legem posuisti mihi."
+    },
+    {
+      "v": 103,
+      "ref": "psa.118.103",
+      "text": "Quam dulcia faucibus meis eloquia tua ! super mel ori meo."
+    },
+    {
+      "v": 104,
+      "ref": "psa.118.104",
+      "text": "A mandatis tuis intellexi ; propterea odivi omnem viam iniquitatis."
+    },
+    {
+      "v": 105,
+      "ref": "psa.118.105",
+      "text": "NUN. Lucerna pedibus meis verbum tuum, et lumen semitis meis."
+    },
+    {
+      "v": 106,
+      "ref": "psa.118.106",
+      "text": "Juravi et statui custodire judicia justitiæ tuæ."
+    },
+    {
+      "v": 107,
+      "ref": "psa.118.107",
+      "text": "Humiliatus sum usquequaque, Domine ; vivifica me secundum verbum tuum."
+    },
+    {
+      "v": 108,
+      "ref": "psa.118.108",
+      "text": "Voluntaria oris mei beneplacita fac, Domine, et judicia tua doce me."
+    },
+    {
+      "v": 109,
+      "ref": "psa.118.109",
+      "text": "Anima mea in manibus meis semper, et legem tuam non sum oblitus."
+    },
+    {
+      "v": 110,
+      "ref": "psa.118.110",
+      "text": "Posuerunt peccatores laqueum mihi, et de mandatis tuis non erravi."
+    },
+    {
+      "v": 111,
+      "ref": "psa.118.111",
+      "text": "Hæreditate acquisivi testimonia tua in æternum, quia exsultatio cordis mei sunt."
+    },
+    {
+      "v": 112,
+      "ref": "psa.118.112",
+      "text": "Inclinavi cor meum ad faciendas justificationes tuas in æternum, propter retributionem."
+    },
+    {
+      "v": 113,
+      "ref": "psa.118.113",
+      "text": "SAMECH. Iniquos odio habui, et legem tuam dilexi."
+    },
+    {
+      "v": 114,
+      "ref": "psa.118.114",
+      "text": "Adjutor et susceptor meus es tu, et in verbum tuum supersperavi."
+    },
+    {
+      "v": 115,
+      "ref": "psa.118.115",
+      "text": "Declinate a me, maligni, et scrutabor mandata Dei mei."
+    },
+    {
+      "v": 116,
+      "ref": "psa.118.116",
+      "text": "Suscipe me secundum eloquium tuum, et vivam, et non confundas me ab exspectatione mea."
+    },
+    {
+      "v": 117,
+      "ref": "psa.118.117",
+      "text": "Adjuva me, et salvus ero, et meditabor in justificationibus tuis semper."
+    },
+    {
+      "v": 118,
+      "ref": "psa.118.118",
+      "text": "Sprevisti omnes discedentes a judiciis tuis, quia injusta cogitatio eorum."
+    },
+    {
+      "v": 119,
+      "ref": "psa.118.119",
+      "text": "Prævaricantes reputavi omnes peccatores terræ ; ideo dilexi testimonia tua."
+    },
+    {
+      "v": 120,
+      "ref": "psa.118.120",
+      "text": "Confige timore tuo carnes meas ; a judiciis enim tuis timui."
+    },
+    {
+      "v": 121,
+      "ref": "psa.118.121",
+      "text": "AIN. Feci judicium et justitiam : non tradas me calumniantibus me."
+    },
+    {
+      "v": 122,
+      "ref": "psa.118.122",
+      "text": "Suscipe servum tuum in bonum : non calumnientur me superbi."
+    },
+    {
+      "v": 123,
+      "ref": "psa.118.123",
+      "text": "Oculi mei defecerunt in salutare tuum, et in eloquium justitiæ tuæ."
+    },
+    {
+      "v": 124,
+      "ref": "psa.118.124",
+      "text": "Fac cum servo tuo secundum misericordiam tuam, et justificationes tuas doce me."
+    },
+    {
+      "v": 125,
+      "ref": "psa.118.125",
+      "text": "Servus tuus sum ego : da mihi intellectum, ut sciam testimonia tua."
+    },
+    {
+      "v": 126,
+      "ref": "psa.118.126",
+      "text": "Tempus faciendi, Domine : dissipaverunt legem tuam."
+    },
+    {
+      "v": 127,
+      "ref": "psa.118.127",
+      "text": "Ideo dilexi mandata tua super aurum et topazion."
+    },
+    {
+      "v": 128,
+      "ref": "psa.118.128",
+      "text": "Propterea ad omnia mandata tua dirigebar ; omnem viam iniquam odio habui."
+    },
+    {
+      "v": 129,
+      "ref": "psa.118.129",
+      "text": "PHE. Mirabilia testimonia tua : ideo scrutata est ea anima mea."
+    },
+    {
+      "v": 130,
+      "ref": "psa.118.130",
+      "text": "Declaratio sermonum tuorum illuminat, et intellectum dat parvulis."
+    },
+    {
+      "v": 131,
+      "ref": "psa.118.131",
+      "text": "Os meum aperui, et attraxi spiritum : quia mandata tua desiderabam."
+    },
+    {
+      "v": 132,
+      "ref": "psa.118.132",
+      "text": "Aspice in me, et miserere mei, secundum judicium diligentium nomen tuum."
+    },
+    {
+      "v": 133,
+      "ref": "psa.118.133",
+      "text": "Gressus meos dirige secundum eloquium tuum, et non dominetur mei omnis injustitia."
+    },
+    {
+      "v": 134,
+      "ref": "psa.118.134",
+      "text": "Redime me a calumniis hominum ut custodiam mandata tua."
+    },
+    {
+      "v": 135,
+      "ref": "psa.118.135",
+      "text": "Faciem tuam illumina super servum tuum, et doce me justificationes tuas."
+    },
+    {
+      "v": 136,
+      "ref": "psa.118.136",
+      "text": "Exitus aquarum deduxerunt oculi mei, quia non custodierunt legem tuam."
+    },
+    {
+      "v": 137,
+      "ref": "psa.118.137",
+      "text": "SADE. Justus es, Domine, et rectum judicium tuum."
+    },
+    {
+      "v": 138,
+      "ref": "psa.118.138",
+      "text": "Mandasti justitiam testimonia tua, et veritatem tuam nimis."
+    },
+    {
+      "v": 139,
+      "ref": "psa.118.139",
+      "text": "Tabescere me fecit zelus meus, quia obliti sunt verba tua inimici mei."
+    },
+    {
+      "v": 140,
+      "ref": "psa.118.140",
+      "text": "Ignitum eloquium tuum vehementer, et servus tuus dilexit illud."
+    },
+    {
+      "v": 141,
+      "ref": "psa.118.141",
+      "text": "Adolescentulus sum ego et contemptus ; justificationes tuas non sum oblitus."
+    },
+    {
+      "v": 142,
+      "ref": "psa.118.142",
+      "text": "Justitia tua, justitia in æternum, et lex tua veritas."
+    },
+    {
+      "v": 143,
+      "ref": "psa.118.143",
+      "text": "Tribulatio et angustia invenerunt me ; mandata tua meditatio mea est."
+    },
+    {
+      "v": 144,
+      "ref": "psa.118.144",
+      "text": "Æquitas testimonia tua in æternum : intellectum da mihi, et vivam."
+    },
+    {
+      "v": 145,
+      "ref": "psa.118.145",
+      "text": "COPH. Clamavi in toto corde meo : exaudi me, Domine ; justificationes tuas requiram."
+    },
+    {
+      "v": 146,
+      "ref": "psa.118.146",
+      "text": "Clamavi ad te ; salvum me fac : ut custodiam mandata tua."
+    },
+    {
+      "v": 147,
+      "ref": "psa.118.147",
+      "text": "Præveni in maturitate, et clamavi : quia in verba tua supersperavi."
+    },
+    {
+      "v": 148,
+      "ref": "psa.118.148",
+      "text": "Prævenerunt oculi mei ad te diluculo, ut meditarer eloquia tua."
+    },
+    {
+      "v": 149,
+      "ref": "psa.118.149",
+      "text": "Vocem meam audi secundum misericordiam tuam, Domine, et secundum judicium tuum vivifica me."
+    },
+    {
+      "v": 150,
+      "ref": "psa.118.150",
+      "text": "Appropinquaverunt persequentes me iniquitati : a lege autem tua longe facti sunt."
+    },
+    {
+      "v": 151,
+      "ref": "psa.118.151",
+      "text": "Prope es tu, Domine, et omnes viæ tuæ veritas."
+    },
+    {
+      "v": 152,
+      "ref": "psa.118.152",
+      "text": "Initio cognovi de testimoniis tuis, quia in æternum fundasti ea."
+    },
+    {
+      "v": 153,
+      "ref": "psa.118.153",
+      "text": "RES. Vide humilitatem meam, et eripe me, quia legem tuam non sum oblitus."
+    },
+    {
+      "v": 154,
+      "ref": "psa.118.154",
+      "text": "Judica judicium meum, et redime me : propter eloquium tuum vivifica me."
+    },
+    {
+      "v": 155,
+      "ref": "psa.118.155",
+      "text": "Longe a peccatoribus salus, quia justificationes tuas non exquisierunt."
+    },
+    {
+      "v": 156,
+      "ref": "psa.118.156",
+      "text": "Misericordiæ tuæ multæ, Domine ; secundum judicium tuum vivifica me."
+    },
+    {
+      "v": 157,
+      "ref": "psa.118.157",
+      "text": "Multi qui persequuntur me, et tribulant me ; a testimoniis tuis non declinavi."
+    },
+    {
+      "v": 158,
+      "ref": "psa.118.158",
+      "text": "Vidi prævaricantes et tabescebam, quia eloquia tua non custodierunt."
+    },
+    {
+      "v": 159,
+      "ref": "psa.118.159",
+      "text": "Vide quoniam mandata tua dilexi, Domine : in misericordia tua vivifica me."
+    },
+    {
+      "v": 160,
+      "ref": "psa.118.160",
+      "text": "Principium verborum tuorum veritas ; in æternum omnia judicia justitiæ tuæ."
+    },
+    {
+      "v": 161,
+      "ref": "psa.118.161",
+      "text": "SIN. Principes persecuti sunt me gratis, et a verbis tuis formidavit cor meum."
+    },
+    {
+      "v": 162,
+      "ref": "psa.118.162",
+      "text": "Lætabor ego super eloquia tua, sicut qui invenit spolia multa."
+    },
+    {
+      "v": 163,
+      "ref": "psa.118.163",
+      "text": "Iniquitatem odio habui, et abominatus sum, legem autem tuam dilexi."
+    },
+    {
+      "v": 164,
+      "ref": "psa.118.164",
+      "text": "Septies in die laudem dixi tibi, super judicia justitiæ tuæ."
+    },
+    {
+      "v": 165,
+      "ref": "psa.118.165",
+      "text": "Pax multa diligentibus legem tuam, et non est illis scandalum."
+    },
+    {
+      "v": 166,
+      "ref": "psa.118.166",
+      "text": "Exspectabam salutare tuum, Domine, et mandata tua dilexi."
+    },
+    {
+      "v": 167,
+      "ref": "psa.118.167",
+      "text": "Custodivit anima mea testimonia tua, et dilexit ea vehementer."
+    },
+    {
+      "v": 168,
+      "ref": "psa.118.168",
+      "text": "Servavi mandata tua et testimonia tua, quia omnes viæ meæ in conspectu tuo."
+    },
+    {
+      "v": 169,
+      "ref": "psa.118.169",
+      "text": "TAU. Appropinquet deprecatio mea in conspectu tuo, Domine ; juxta eloquium tuum da mihi intellectum."
+    },
+    {
+      "v": 170,
+      "ref": "psa.118.170",
+      "text": "Intret postulatio mea in conspectu tuo ; secundum eloquium tuum eripe me."
+    },
+    {
+      "v": 171,
+      "ref": "psa.118.171",
+      "text": "Eructabunt labia mea hymnum, cum docueris me justificationes tuas."
+    },
+    {
+      "v": 172,
+      "ref": "psa.118.172",
+      "text": "Pronuntiabit lingua mea eloquium tuum, quia omnia mandata tua æquitas."
+    },
+    {
+      "v": 173,
+      "ref": "psa.118.173",
+      "text": "Fiat manus tua ut salvet me, quoniam mandata tua elegi."
+    },
+    {
+      "v": 174,
+      "ref": "psa.118.174",
+      "text": "Concupivi salutare tuum, Domine, et lex tua meditatio mea est."
+    },
+    {
+      "v": 175,
+      "ref": "psa.118.175",
+      "text": "Vivet anima mea, et laudabit te, et judicia tua adjuvabunt me."
+    },
+    {
+      "v": 176,
+      "ref": "psa.118.176",
+      "text": "Erravi sicut ovis quæ periit : quære servum tuum, quia mandata tua non sum oblitus."
+    }
+  ]
+}

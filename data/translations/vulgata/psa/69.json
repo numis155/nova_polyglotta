@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 69,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.69.1",
+      "text": "In finem. Psalmus David in rememorationem, quod salvum fecerit eum Dominus."
+    },
+    {
+      "v": 2,
+      "ref": "psa.69.2",
+      "text": "Deus, in adjutorium meum intende ; Domine, ad adjuvandum me festina."
+    },
+    {
+      "v": 3,
+      "ref": "psa.69.3",
+      "text": "Confundantur, et revereantur, qui quærunt animam meam."
+    },
+    {
+      "v": 4,
+      "ref": "psa.69.4",
+      "text": "Avertantur retrorsum, et erubescant, qui volunt mihi mala ; avertantur statim erubescentes qui dicunt mihi : Euge, euge !"
+    },
+    {
+      "v": 5,
+      "ref": "psa.69.5",
+      "text": "Exsultent et lætentur in te omnes qui quærunt te ; et dicant semper : Magnificetur Dominus, qui diligunt salutare tuum."
+    },
+    {
+      "v": 6,
+      "ref": "psa.69.6",
+      "text": "Ego vero egenus et pauper sum ; Deus, adjuva me. Adjutor meus et liberator meus es tu ; Domine, ne moreris."
+    }
+  ]
+}

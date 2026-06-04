@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.23.1",
+      "text": "Salmo de David. El Señor es mi pastor, nada me falta:"
+    },
+    {
+      "v": 2,
+      "ref": "psa.23.2",
+      "text": "en verdes praderas me hace recostar; me conduce hacia fuentes tranquilas"
+    },
+    {
+      "v": 3,
+      "ref": "psa.23.3",
+      "text": "y repara mis fuerzas; me guía por el sendero justo, por el honor de su nombre."
+    },
+    {
+      "v": 4,
+      "ref": "psa.23.4",
+      "text": "Aunque camine por cañadas oscuras, nada temo, porque tú vas conmigo: tu vara y tu cayado me sosiegan."
+    },
+    {
+      "v": 5,
+      "ref": "psa.23.5",
+      "text": "Preparas una mesa ante mí, enfrente de mis enemigos; me unges la cabeza con perfume, y mi copa rebosa."
+    },
+    {
+      "v": 6,
+      "ref": "psa.23.6",
+      "text": "Tu bondad y tu misericordia me acompañan todos los días de mi vida, y habitaré en la casa del Señor por años sin término."
+    }
+  ]
+}

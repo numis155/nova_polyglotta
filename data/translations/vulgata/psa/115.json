@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 115,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.115.1",
+      "text": "Alleluja. Credidi, propter quod locutus sum ; ego autem humiliatus sum nimis."
+    },
+    {
+      "v": 2,
+      "ref": "psa.115.2",
+      "text": "Ego dixi in excessu meo : Omnis homo mendax."
+    },
+    {
+      "v": 3,
+      "ref": "psa.115.3",
+      "text": "Quid retribuam Domino pro omnibus quæ retribuit mihi ?"
+    },
+    {
+      "v": 4,
+      "ref": "psa.115.4",
+      "text": "Calicem salutaris accipiam, et nomen Domini invocabo."
+    },
+    {
+      "v": 5,
+      "ref": "psa.115.5",
+      "text": "Vota mea Domino reddam coram omni populo ejus."
+    },
+    {
+      "v": 6,
+      "ref": "psa.115.6",
+      "text": "Pretiosa in conspectu Domini mors sanctorum ejus."
+    },
+    {
+      "v": 7,
+      "ref": "psa.115.7",
+      "text": "O Domine, quia ego servus tuus ; ego servus tuus, et filius ancillæ tuæ. Dirupisti vincula mea :"
+    },
+    {
+      "v": 8,
+      "ref": "psa.115.8",
+      "text": "tibi sacrificabo hostiam laudis, et nomen Domini invocabo."
+    },
+    {
+      "v": 9,
+      "ref": "psa.115.9",
+      "text": "Vota mea Domino reddam in conspectu omnis populi ejus ;"
+    },
+    {
+      "v": 10,
+      "ref": "psa.115.10",
+      "text": "in atriis domus Domini, in medio tui, Jerusalem."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 150,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.150.1",
+      "text": "Aleluya. Alabad al Señor en su templo, alabadlo en su fuerte firmamento;"
+    },
+    {
+      "v": 2,
+      "ref": "psa.150.2",
+      "text": "alabadlo por sus obras magníficas, alabadlo por su inmensa grandeza."
+    },
+    {
+      "v": 3,
+      "ref": "psa.150.3",
+      "text": "Alabadlo tocando trompetas, alabadlo con arpas y cítaras;"
+    },
+    {
+      "v": 4,
+      "ref": "psa.150.4",
+      "text": "alabadlo con tambores y danzas, alabadlo con trompas y flautas;"
+    },
+    {
+      "v": 5,
+      "ref": "psa.150.5",
+      "text": "alabadlo con platillos sonoros, alabadlo con platillos vibrantes."
+    },
+    {
+      "v": 6,
+      "ref": "psa.150.6",
+      "text": "Todo ser que alienta alabe al Señor. ¡Aleluya!"
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "schemaVersion": 1,
+  "translation": "cee",
+  "book": "psa",
+  "chapter": 119,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.119.1",
+      "text": "(Álef) Dichoso el que, con vida intachable, camina en la ley del Señor;"
+    },
+    {
+      "v": 2,
+      "ref": "psa.119.2",
+      "text": "dichoso el que, guardando sus preceptos, lo busca de todo corazón;"
+    },
+    {
+      "v": 3,
+      "ref": "psa.119.3",
+      "text": "el que, sin cometer iniquidad, anda por sus senderos."
+    },
+    {
+      "v": 4,
+      "ref": "psa.119.4",
+      "text": "Tú promulgas tus mandatos para que se observen exactamente."
+    },
+    {
+      "v": 5,
+      "ref": "psa.119.5",
+      "text": "Ojalá esté firme mi camino, para cumplir tus decretos;"
+    },
+    {
+      "v": 6,
+      "ref": "psa.119.6",
+      "text": "entonces no sentiré vergüenza al mirar todos tus mandatos."
+    },
+    {
+      "v": 7,
+      "ref": "psa.119.7",
+      "text": "Te alabaré con sincero corazón cuando aprenda tus justos mandamientos."
+    },
+    {
+      "v": 8,
+      "ref": "psa.119.8",
+      "text": "Quiero guardar tus decretos exactamente, tú no me abandones."
+    },
+    {
+      "v": 9,
+      "ref": "psa.119.9",
+      "text": "(Bet) ¿Cómo podrá un joven an-dar honestamente? Cumpliendo tus pa-labras."
+    },
+    {
+      "v": 10,
+      "ref": "psa.119.10",
+      "text": "Te busco de todo corazón, no consientas que me desvíe de tus mandamientos."
+    },
+    {
+      "v": 11,
+      "ref": "psa.119.11",
+      "text": "En mi corazón escondo tus consignas, así no pecaré contra ti."
+    },
+    {
+      "v": 12,
+      "ref": "psa.119.12",
+      "text": "Bendito eres, Señor, enséñame tus decretos."
+    },
+    {
+      "v": 13,
+      "ref": "psa.119.13",
+      "text": "Mis labios van enumerando todos los mandamientos de tu boca;"
+    },
+    {
+      "v": 14,
+      "ref": "psa.119.14",
+      "text": "mi alegría es el camino de tus preceptos, más que todas las riquezas."
+    },
+    {
+      "v": 15,
+      "ref": "psa.119.15",
+      "text": "Medito tus mandatos, y me fijo en tus sendas;"
+    },
+    {
+      "v": 16,
+      "ref": "psa.119.16",
+      "text": "tus decretos son mi delicia, no olvidaré tus palabras."
+    },
+    {
+      "v": 17,
+      "ref": "psa.119.17",
+      "text": "(Guímel) Haz bien a tu siervo: viviré y cumpliré tus palabras;"
+    },
+    {
+      "v": 18,
+      "ref": "psa.119.18",
+      "text": "ábreme los ojos, y contemplaré las maravillas de tu ley;"
+    },
+    {
+      "v": 19,
+      "ref": "psa.119.19",
+      "text": "soy un forastero en la tierra: no me ocultes tus promesas."
+    },
+    {
+      "v": 20,
+      "ref": "psa.119.20",
+      "text": "Mi alma se consume, deseando continuamente tus mandamientos;"
+    },
+    {
+      "v": 21,
+      "ref": "psa.119.21",
+      "text": "reprendes a los soberbios, malditos los que se apartan de tus mandatos."
+    },
+    {
+      "v": 22,
+      "ref": "psa.119.22",
+      "text": "Aleja de mí las afrentas y el desprecio, porque observo tus preceptos;"
+    },
+    {
+      "v": 23,
+      "ref": "psa.119.23",
+      "text": "aunque los nobles se sienten a murmurar de mí, tu siervo medita tus decretos;"
+    },
+    {
+      "v": 24,
+      "ref": "psa.119.24",
+      "text": "tus preceptos son mi delicia, tus enseñanzas son mis consejeros."
+    },
+    {
+      "v": 25,
+      "ref": "psa.119.25",
+      "text": "(Dálet) Mi alma está pegada al polvo: reanímame con tus palabras;"
+    },
+    {
+      "v": 26,
+      "ref": "psa.119.26",
+      "text": "te expliqué mi camino, y me escuchaste: enséñame tus mandamientos;"
+    },
+    {
+      "v": 27,
+      "ref": "psa.119.27",
+      "text": "instrúyeme en el camino de tus mandatos, y meditaré tus maravillas."
+    },
+    {
+      "v": 28,
+      "ref": "psa.119.28",
+      "text": "Mi alma llora de tristeza, consuélame con tus promesas;"
+    },
+    {
+      "v": 29,
+      "ref": "psa.119.29",
+      "text": "apártame del camino falso, y dame la gracia de tu ley;"
+    },
+    {
+      "v": 30,
+      "ref": "psa.119.30",
+      "text": "escogí el camino verdadero, deseé tus mandamientos."
+    },
+    {
+      "v": 31,
+      "ref": "psa.119.31",
+      "text": "Me apegué a tus preceptos, Señor, no me defraudes;"
+    },
+    {
+      "v": 32,
+      "ref": "psa.119.32",
+      "text": "correré por el camino de tus mandatos cuando me ensanches el corazón."
+    },
+    {
+      "v": 33,
+      "ref": "psa.119.33",
+      "text": "(He) Muéstrame, Señor, el camino de tus decretos, y lo seguiré puntualmente;"
+    },
+    {
+      "v": 34,
+      "ref": "psa.119.34",
+      "text": "enséñame a cumplir tu ley y a guardarla de todo corazón;"
+    },
+    {
+      "v": 35,
+      "ref": "psa.119.35",
+      "text": "guíame por la senda de tus mandatos, porque ella es mi gozo."
+    },
+    {
+      "v": 36,
+      "ref": "psa.119.36",
+      "text": "Inclina mi corazón a tus preceptos, y no al interés;"
+    },
+    {
+      "v": 37,
+      "ref": "psa.119.37",
+      "text": "aparta mis ojos de las vanidades, dame vida con tu palabra;"
+    },
+    {
+      "v": 38,
+      "ref": "psa.119.38",
+      "text": "cumple a tu siervo la promesa para que se mantenga tu temor."
+    },
+    {
+      "v": 39,
+      "ref": "psa.119.39",
+      "text": "Aparta de mí la afrenta que temo, porque tus mandamientos son amables;"
+    },
+    {
+      "v": 40,
+      "ref": "psa.119.40",
+      "text": "mira cómo ansío tus mandatos: dame vida con tu justicia."
+    },
+    {
+      "v": 41,
+      "ref": "psa.119.41",
+      "text": "(Vau) Señor, que me alcance tu favor, tu salvación según tu promesa:"
+    },
+    {
+      "v": 42,
+      "ref": "psa.119.42",
+      "text": "así responderé a los que me injurian, que confío en tu palabra;"
+    },
+    {
+      "v": 43,
+      "ref": "psa.119.43",
+      "text": "no quites de mi boca las palabras sinceras, porque yo espero en tus mandamientos."
+    },
+    {
+      "v": 44,
+      "ref": "psa.119.44",
+      "text": "Cumpliré sin cesar tu ley, por siempre jamás;"
+    },
+    {
+      "v": 45,
+      "ref": "psa.119.45",
+      "text": "andaré por un camino ancho, buscando tus mandatos;"
+    },
+    {
+      "v": 46,
+      "ref": "psa.119.46",
+      "text": "comentaré tus preceptos ante los reyes, y no me avergonzaré."
+    },
+    {
+      "v": 47,
+      "ref": "psa.119.47",
+      "text": "Serán mi delicia tus mandatos, que tanto amo;"
+    },
+    {
+      "v": 48,
+      "ref": "psa.119.48",
+      "text": "levantaré mis manos hacia tus decretos, que tanto amo, y recitaré tus mandatos."
+    },
+    {
+      "v": 49,
+      "ref": "psa.119.49",
+      "text": "(Zain) Recuerda la palabra que diste a tu siervo, de la que hiciste mi esperanza;"
+    },
+    {
+      "v": 50,
+      "ref": "psa.119.50",
+      "text": "este es mi consuelo en la aflicción: que tu promesa me da vida;"
+    },
+    {
+      "v": 51,
+      "ref": "psa.119.51",
+      "text": "los insolentes me insultan sin parar, pero yo no me aparto de tu ley."
+    },
+    {
+      "v": 52,
+      "ref": "psa.119.52",
+      "text": "Recordando tus antiguos mandamientos, Señor, quedé consolado;"
+    },
+    {
+      "v": 53,
+      "ref": "psa.119.53",
+      "text": "sentí indignación ante los malvados, que abandonan tu ley;"
+    },
+    {
+      "v": 54,
+      "ref": "psa.119.54",
+      "text": "tus decretos eran mi canción en tierra extranjera."
+    },
+    {
+      "v": 55,
+      "ref": "psa.119.55",
+      "text": "De noche pronuncio tu nombre, Señor, y, velando, tu ley;"
+    },
+    {
+      "v": 56,
+      "ref": "psa.119.56",
+      "text": "esto es lo que a mí me toca: guardar tus decretos."
+    },
+    {
+      "v": 57,
+      "ref": "psa.119.57",
+      "text": "(Jet) Mi porción es el Señor; he resuelto guardar tus palabras;"
+    },
+    {
+      "v": 58,
+      "ref": "psa.119.58",
+      "text": "de todo corazón busco tu favor: ten piedad de mí, según tu promesa;"
+    },
+    {
+      "v": 59,
+      "ref": "psa.119.59",
+      "text": "he examinado mi camino, para enderezar mis pies a tus preceptos."
+    },
+    {
+      "v": 60,
+      "ref": "psa.119.60",
+      "text": "Con diligencia, sin tardanza, observo tus mandatos;"
+    },
+    {
+      "v": 61,
+      "ref": "psa.119.61",
+      "text": "los lazos de los malvados me envuelven, pero no olvido tu ley;"
+    },
+    {
+      "v": 62,
+      "ref": "psa.119.62",
+      "text": "a media noche me levanto para darte gracias por tus justos mandamientos."
+    },
+    {
+      "v": 63,
+      "ref": "psa.119.63",
+      "text": "Soy amigo de los que te temen, y guardan tus mandatos;"
+    },
+    {
+      "v": 64,
+      "ref": "psa.119.64",
+      "text": "Señor, de tu bondad está llena la tierra; enséñame tus decretos."
+    },
+    {
+      "v": 65,
+      "ref": "psa.119.65",
+      "text": "(Tet) Has dado bienes a tu siervo, Señor, con tus palabras;"
+    },
+    {
+      "v": 66,
+      "ref": "psa.119.66",
+      "text": "enséñame la bondad, la prudencia y el conocimiento, porque me fío de tus mandatos;"
+    },
+    {
+      "v": 67,
+      "ref": "psa.119.67",
+      "text": "antes de sufrir, yo andaba extra-viado, pero ahora me ajusto a tu promesa."
+    },
+    {
+      "v": 68,
+      "ref": "psa.119.68",
+      "text": "Tú eres bueno y haces el bien; instrúyeme en tus decretos;"
+    },
+    {
+      "v": 69,
+      "ref": "psa.119.69",
+      "text": "los insolentes urden engaños contra mí, pero yo custodio tus mandatos de todo corazón;"
+    },
+    {
+      "v": 70,
+      "ref": "psa.119.70",
+      "text": "tienen el corazón espeso como grasa, pero mi delicia es tu ley."
+    },
+    {
+      "v": 71,
+      "ref": "psa.119.71",
+      "text": "Me estuvo bien el sufrir, así aprendí tus decretos;"
+    },
+    {
+      "v": 72,
+      "ref": "psa.119.72",
+      "text": "más estimo yo la ley de tu boca que miles de monedas de oro y plata."
+    },
+    {
+      "v": 73,
+      "ref": "psa.119.73",
+      "text": "(Yod) Tus manos me hicieron y me formaron: instrúyeme para que aprenda tus mandatos;"
+    },
+    {
+      "v": 74,
+      "ref": "psa.119.74",
+      "text": "los que te temen verán con alegría que he esperado en tu palabra;"
+    },
+    {
+      "v": 75,
+      "ref": "psa.119.75",
+      "text": "reconozco, Señor, que tus mandamientos son justos, que con razón me hiciste sufrir."
+    },
+    {
+      "v": 76,
+      "ref": "psa.119.76",
+      "text": "Que tu bondad me consuele, según la promesa hecha a tu siervo;"
+    },
+    {
+      "v": 77,
+      "ref": "psa.119.77",
+      "text": "cuando me alcance tu compasión, viviré, y tu ley será mi delicia;"
+    },
+    {
+      "v": 78,
+      "ref": "psa.119.78",
+      "text": "que se avergüencen los insolentes del daño que me hacen; yo meditaré tus mandatos."
+    },
+    {
+      "v": 79,
+      "ref": "psa.119.79",
+      "text": "Vuelvan a mí los que te temen y hacen caso de tus preceptos;"
+    },
+    {
+      "v": 80,
+      "ref": "psa.119.80",
+      "text": "sea mi corazón perfecto en tus decretos, así no quedaré avergonzado."
+    },
+    {
+      "v": 81,
+      "ref": "psa.119.81",
+      "text": "(Kaf) Me consumo ansiando tu salvación, y espero en tu palabra;"
+    },
+    {
+      "v": 82,
+      "ref": "psa.119.82",
+      "text": "mis ojos se consumen ansiando tus promesas, mientras digo: «¿Cuándo me consolarás?»."
+    },
+    {
+      "v": 83,
+      "ref": "psa.119.83",
+      "text": "Estoy como un odre puesto al humo, pero no olvido tus decretos."
+    },
+    {
+      "v": 84,
+      "ref": "psa.119.84",
+      "text": "¿Cuántos serán los días de tu siervo? ¿Cuándo harás justicia de mis perseguidores?"
+    },
+    {
+      "v": 85,
+      "ref": "psa.119.85",
+      "text": "Me han cavado fosas los insolentes, ignorando tu ley;"
+    },
+    {
+      "v": 86,
+      "ref": "psa.119.86",
+      "text": "todos tus mandatos son verdaderos, sin razón me persiguen, protégeme."
+    },
+    {
+      "v": 87,
+      "ref": "psa.119.87",
+      "text": "Casi dieron conmigo en la tumba, pero yo no abandoné tus mandatos;"
+    },
+    {
+      "v": 88,
+      "ref": "psa.119.88",
+      "text": "por tu bondad dame vida, para que observe los preceptos de tu boca."
+    },
+    {
+      "v": 89,
+      "ref": "psa.119.89",
+      "text": "(Lámed) Tu palabra, Señor, es eterna, más estable que el cielo;"
+    },
+    {
+      "v": 90,
+      "ref": "psa.119.90",
+      "text": "tu fidelidad, de generación en generación; fundaste la tierra y permanece;"
+    },
+    {
+      "v": 91,
+      "ref": "psa.119.91",
+      "text": "por tu mandamiento subsisten hasta hoy, porque todo está a tu servicio."
+    },
+    {
+      "v": 92,
+      "ref": "psa.119.92",
+      "text": "Si tu ley no fuera mi delicia, ya habría perecido en mi desgracia;"
+    },
+    {
+      "v": 93,
+      "ref": "psa.119.93",
+      "text": "jamás olvidaré tus mandatos, pues con ellos me diste vida;"
+    },
+    {
+      "v": 94,
+      "ref": "psa.119.94",
+      "text": "soy tuyo, sálvame, que yo consulto tus mandatos."
+    },
+    {
+      "v": 95,
+      "ref": "psa.119.95",
+      "text": "Los malvados me esperaban para perderme, pero yo meditaba tus preceptos;"
+    },
+    {
+      "v": 96,
+      "ref": "psa.119.96",
+      "text": "he visto el límite de todo lo perfecto: tu mandato se dilata sin término."
+    },
+    {
+      "v": 97,
+      "ref": "psa.119.97",
+      "text": "(Mem) ¡Cuánto amo tu ley!: todo el día la estoy meditando;"
+    },
+    {
+      "v": 98,
+      "ref": "psa.119.98",
+      "text": "tu mandato me hace más sabio que mis enemigos, siempre me acompaña;"
+    },
+    {
+      "v": 99,
+      "ref": "psa.119.99",
+      "text": "soy más docto que todos mis maestros, porque medito tus preceptos."
+    },
+    {
+      "v": 100,
+      "ref": "psa.119.100",
+      "text": "Soy más sagaz que los ancianos, porque cumplo tus mandatos;"
+    },
+    {
+      "v": 101,
+      "ref": "psa.119.101",
+      "text": "aparto mi pie de toda senda mala, para guardar tu palabra;"
+    },
+    {
+      "v": 102,
+      "ref": "psa.119.102",
+      "text": "no me aparto de tus mandamientos, porque tú me has instruido."
+    },
+    {
+      "v": 103,
+      "ref": "psa.119.103",
+      "text": "¡Qué dulce al paladar tu promesa: más que miel en la boca!"
+    },
+    {
+      "v": 104,
+      "ref": "psa.119.104",
+      "text": "Considero tus mandatos, y odio el camino de la mentira."
+    },
+    {
+      "v": 105,
+      "ref": "psa.119.105",
+      "text": "(Nun) Lámpara es tu palabra para mis pasos, luz en mi sendero;"
+    },
+    {
+      "v": 106,
+      "ref": "psa.119.106",
+      "text": "lo juro y lo cumpliré: guardaré tus justos mandamientos;"
+    },
+    {
+      "v": 107,
+      "ref": "psa.119.107",
+      "text": "¡estoy tan afligido! Señor, dame vida según tu promesa."
+    },
+    {
+      "v": 108,
+      "ref": "psa.119.108",
+      "text": "Acepta, Señor, los votos que pronuncio, enséñame tus mandatos;"
+    },
+    {
+      "v": 109,
+      "ref": "psa.119.109",
+      "text": "mi vida está siempre en peligro, pero no olvido tu ley;"
+    },
+    {
+      "v": 110,
+      "ref": "psa.119.110",
+      "text": "los malvados me tendieron un lazo, pero no me desvié de tus mandatos."
+    },
+    {
+      "v": 111,
+      "ref": "psa.119.111",
+      "text": "Tus preceptos son mi herencia perpetua, la alegría de mi corazón;"
+    },
+    {
+      "v": 112,
+      "ref": "psa.119.112",
+      "text": "inclino mi corazón a cumplir tus decretos, siempre y cabalmente."
+    },
+    {
+      "v": 113,
+      "ref": "psa.119.113",
+      "text": "(Sámek) Detesto a los inconstantes y amo tu ley;"
+    },
+    {
+      "v": 114,
+      "ref": "psa.119.114",
+      "text": "tú eres mi refugio y mi escudo, yo espero en tu palabra;"
+    },
+    {
+      "v": 115,
+      "ref": "psa.119.115",
+      "text": "apartaos de mí los perversos, y cumpliré los mandatos de mi Dios."
+    },
+    {
+      "v": 116,
+      "ref": "psa.119.116",
+      "text": "Sostenme con tu promesa, y viviré, que no quede frustrada mi esperanza;"
+    },
+    {
+      "v": 117,
+      "ref": "psa.119.117",
+      "text": "dame apoyo, y estaré a salvo, me fijaré en tus decretos sin cesar;"
+    },
+    {
+      "v": 118,
+      "ref": "psa.119.118",
+      "text": "desprecias a los que se desvían de tus decretos, sus proyectos son engaño."
+    },
+    {
+      "v": 119,
+      "ref": "psa.119.119",
+      "text": "Tienes por escoria a los malvados, por eso amo tus preceptos;"
+    },
+    {
+      "v": 120,
+      "ref": "psa.119.120",
+      "text": "mi carne se estremece con tu temor, y me estremecen tus juicios."
+    },
+    {
+      "v": 121,
+      "ref": "psa.119.121",
+      "text": "(Ayin) Practico la justicia y el derecho, no me entregues a mis opresores;"
+    },
+    {
+      "v": 122,
+      "ref": "psa.119.122",
+      "text": "da fianza en favor de tu siervo, que no me opriman los insolentes;"
+    },
+    {
+      "v": 123,
+      "ref": "psa.119.123",
+      "text": "mis ojos se consumen aguardando tu salvación y tu promesa de justicia."
+    },
+    {
+      "v": 124,
+      "ref": "psa.119.124",
+      "text": "Trata con misericordia a tu siervo, enséñame tus decretos;"
+    },
+    {
+      "v": 125,
+      "ref": "psa.119.125",
+      "text": "yo soy tu siervo: dame inteligencia, y conoceré tus preceptos;"
+    },
+    {
+      "v": 126,
+      "ref": "psa.119.126",
+      "text": "es hora de que actúes, Señor: han quebrantado tu ley."
+    },
+    {
+      "v": 127,
+      "ref": "psa.119.127",
+      "text": "Yo amo tus mandatos más que el oro purísimo;"
+    },
+    {
+      "v": 128,
+      "ref": "psa.119.128",
+      "text": "por eso aprecio tus decretos y detesto el camino de la mentira."
+    },
+    {
+      "v": 129,
+      "ref": "psa.119.129",
+      "text": "(Pe) Tus preceptos son admirables, por eso los guarda mi alma;"
+    },
+    {
+      "v": 130,
+      "ref": "psa.119.130",
+      "text": "la explicación de tus palabras ilumina, da inteligencia a los ignorantes;"
+    },
+    {
+      "v": 131,
+      "ref": "psa.119.131",
+      "text": "abro la boca y respiro, ansiando tus mandamientos."
+    },
+    {
+      "v": 132,
+      "ref": "psa.119.132",
+      "text": "Vuélvete a mí y ten misericordia, como es tu norma con los que aman tu nombre;"
+    },
+    {
+      "v": 133,
+      "ref": "psa.119.133",
+      "text": "asegura mis pasos con tu promesa, que ninguna maldad me domine;"
+    },
+    {
+      "v": 134,
+      "ref": "psa.119.134",
+      "text": "líbrame de la opresión de los hombres, y guardaré tus mandatos."
+    },
+    {
+      "v": 135,
+      "ref": "psa.119.135",
+      "text": "Haz brillar tu rostro sobre tu siervo, enséñame tus decretos;"
+    },
+    {
+      "v": 136,
+      "ref": "psa.119.136",
+      "text": "arroyos de lágrimas bajan de mis ojos por los que no cumplen tu ley."
+    },
+    {
+      "v": 137,
+      "ref": "psa.119.137",
+      "text": "(Sade) Señor, tú eres justo, tus mandamientos son rectos;"
+    },
+    {
+      "v": 138,
+      "ref": "psa.119.138",
+      "text": "has decretado preceptos justos sumamente estables;"
+    },
+    {
+      "v": 139,
+      "ref": "psa.119.139",
+      "text": "me consume el celo, porque mis enemigos olvidan tus palabras."
+    },
+    {
+      "v": 140,
+      "ref": "psa.119.140",
+      "text": "Tu promesa es acrisolada, y tu siervo la ama;"
+    },
+    {
+      "v": 141,
+      "ref": "psa.119.141",
+      "text": "soy pequeño y despreciable, pero no olvido tus mandatos;"
+    },
+    {
+      "v": 142,
+      "ref": "psa.119.142",
+      "text": "tu justicia es justicia eterna, tu ley es verdadera."
+    },
+    {
+      "v": 143,
+      "ref": "psa.119.143",
+      "text": "Me asaltan angustias y aprietos, tus mandatos son mi delicia;"
+    },
+    {
+      "v": 144,
+      "ref": "psa.119.144",
+      "text": "la justicia de tus preceptos es eterna; dame inteligencia, y tendré vida."
+    },
+    {
+      "v": 145,
+      "ref": "psa.119.145",
+      "text": "(Qof) Te invoco de todo corazón: respóndeme, Señor, y guardaré tus decretos;"
+    },
+    {
+      "v": 146,
+      "ref": "psa.119.146",
+      "text": "a ti grito: sálvame, y cumpliré tus preceptos;"
+    },
+    {
+      "v": 147,
+      "ref": "psa.119.147",
+      "text": "me adelanto a la aurora pidiendo auxilio, esperando tus palabras."
+    },
+    {
+      "v": 148,
+      "ref": "psa.119.148",
+      "text": "Mis ojos se adelantan a las vigilias, meditando tu promesa;"
+    },
+    {
+      "v": 149,
+      "ref": "psa.119.149",
+      "text": "escucha mi voz por tu misericordia, Señor, con tus mandamientos dame vida;"
+    },
+    {
+      "v": 150,
+      "ref": "psa.119.150",
+      "text": "ya se acercan mis inicuos perseguidores, están lejos de tu ley."
+    },
+    {
+      "v": 151,
+      "ref": "psa.119.151",
+      "text": "Tú, Señor, estás cerca, y todos tus mandatos son estables;"
+    },
+    {
+      "v": 152,
+      "ref": "psa.119.152",
+      "text": "hace tiempo comprendí que tus preceptos los fundaste para siempre."
+    },
+    {
+      "v": 153,
+      "ref": "psa.119.153",
+      "text": "(Res) Mira mi abatimiento y líbrame, porque no olvido tu ley;"
+    },
+    {
+      "v": 154,
+      "ref": "psa.119.154",
+      "text": "defiende mi causa y rescátame, con tu promesa dame vida;"
+    },
+    {
+      "v": 155,
+      "ref": "psa.119.155",
+      "text": "la salvación está lejos de los malvados que no buscan tus decretos."
+    },
+    {
+      "v": 156,
+      "ref": "psa.119.156",
+      "text": "Grande es tu ternura, Señor, con tus mandamientos dame vida;"
+    },
+    {
+      "v": 157,
+      "ref": "psa.119.157",
+      "text": "muchos son los enemigos que me persiguen, pero yo no me aparto de tus preceptos;"
+    },
+    {
+      "v": 158,
+      "ref": "psa.119.158",
+      "text": "viendo a los renegados, sentía asco, porque no guardan tus palabras."
+    },
+    {
+      "v": 159,
+      "ref": "psa.119.159",
+      "text": "Mira cómo amo tus mandatos, Señor; por tu misericordia dame vida;"
+    },
+    {
+      "v": 160,
+      "ref": "psa.119.160",
+      "text": "el compendio de tu palabra es la verdad, y tus justos juicios son eternos."
+    },
+    {
+      "v": 161,
+      "ref": "psa.119.161",
+      "text": "(Sin) Los nobles me perseguían sin motivo, pero mi corazón respetaba tus palabras;"
+    },
+    {
+      "v": 162,
+      "ref": "psa.119.162",
+      "text": "yo me alegraba con tu promesa, como el que encuentra un rico botín;"
+    },
+    {
+      "v": 163,
+      "ref": "psa.119.163",
+      "text": "detesto y aborrezco la mentira, y amo tu ley."
+    },
+    {
+      "v": 164,
+      "ref": "psa.119.164",
+      "text": "Siete veces al día te alabo por tus justos mandamientos;"
+    },
+    {
+      "v": 165,
+      "ref": "psa.119.165",
+      "text": "mucha paz tienen los que aman tu ley, y nada los hace tropezar;"
+    },
+    {
+      "v": 166,
+      "ref": "psa.119.166",
+      "text": "aguardo tu salvación, Señor, y cumplo tus mandatos."
+    },
+    {
+      "v": 167,
+      "ref": "psa.119.167",
+      "text": "Mi alma guarda tus preceptos y los ama intensamente;"
+    },
+    {
+      "v": 168,
+      "ref": "psa.119.168",
+      "text": "guardo tus preceptos y tus mandatos, y tú tienes presentes mis caminos."
+    },
+    {
+      "v": 169,
+      "ref": "psa.119.169",
+      "text": "(Tau) Que llegue mi clamor a tu presencia, Señor, con tus palabras dame inteligencia;"
+    },
+    {
+      "v": 170,
+      "ref": "psa.119.170",
+      "text": "que mi súplica entre en tu presencia, líbrame según tu promesa;"
+    },
+    {
+      "v": 171,
+      "ref": "psa.119.171",
+      "text": "de mis labios brota la alabanza, porque me enseñaste tus decretos."
+    },
+    {
+      "v": 172,
+      "ref": "psa.119.172",
+      "text": "Mi lengua canta tu promesa, porque todos tus preceptos son justos;"
+    },
+    {
+      "v": 173,
+      "ref": "psa.119.173",
+      "text": "que tu mano me auxilie, ya que prefiero tus mandatos;"
+    },
+    {
+      "v": 174,
+      "ref": "psa.119.174",
+      "text": "ansío tu salvación, Señor; tu ley es mi delicia."
+    },
+    {
+      "v": 175,
+      "ref": "psa.119.175",
+      "text": "Que mi alma viva para alabarte, que tus mandamientos me auxilien;"
+    },
+    {
+      "v": 176,
+      "ref": "psa.119.176",
+      "text": "me extravié como oveja perdida: busca a tu siervo, que no olvida tus preceptos."
+    }
+  ]
+}

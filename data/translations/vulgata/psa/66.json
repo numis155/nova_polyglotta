@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 66,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.66.1",
+      "text": "In finem, in hymnis. Psalmus cantici David."
+    },
+    {
+      "v": 2,
+      "ref": "psa.66.2",
+      "text": "Deus misereatur nostri, et benedicat nobis ; illuminet vultum suum super nos, et misereatur nostri :"
+    },
+    {
+      "v": 3,
+      "ref": "psa.66.3",
+      "text": "ut cognoscamus in terra viam tuam, in omnibus gentibus salutare tuum."
+    },
+    {
+      "v": 4,
+      "ref": "psa.66.4",
+      "text": "Confiteantur tibi populi, Deus : confiteantur tibi populi omnes."
+    },
+    {
+      "v": 5,
+      "ref": "psa.66.5",
+      "text": "Lætentur et exsultent gentes, quoniam judicas populos in æquitate, et gentes in terra dirigis."
+    },
+    {
+      "v": 6,
+      "ref": "psa.66.6",
+      "text": "Confiteantur tibi populi, Deus : confiteantur tibi populi omnes."
+    },
+    {
+      "v": 7,
+      "ref": "psa.66.7",
+      "text": "Terra dedit fructum suum : benedicat nos Deus, Deus noster !"
+    },
+    {
+      "v": 8,
+      "ref": "psa.66.8",
+      "text": "Benedicat nos Deus, et metuant eum omnes fines terræ."
+    }
+  ]
+}
