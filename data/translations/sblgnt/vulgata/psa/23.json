@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 23,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.23.1",
+      "text": "Prima sabbati. Psalmus David. Domini est terra, et plenitudo ejus ; orbis terrarum, et universi qui habitant in eo."
+    },
+    {
+      "v": 2,
+      "ref": "psa.23.2",
+      "text": "Quia ipse super maria fundavit eum, et super flumina præparavit eum."
+    },
+    {
+      "v": 3,
+      "ref": "psa.23.3",
+      "text": "Quis ascendet in montem Domini ? aut quis stabit in loco sancto ejus ?"
+    },
+    {
+      "v": 4,
+      "ref": "psa.23.4",
+      "text": "Innocens manibus et mundo corde, qui non accepit in vano animam suam, nec juravit in dolo proximo suo :"
+    },
+    {
+      "v": 5,
+      "ref": "psa.23.5",
+      "text": "hic accipiet benedictionem a Domino, et misericordiam a Deo salutari suo."
+    },
+    {
+      "v": 6,
+      "ref": "psa.23.6",
+      "text": "Hæc est generatio quærentium eum, quærentium faciem Dei Jacob."
+    },
+    {
+      "v": 7,
+      "ref": "psa.23.7",
+      "text": "Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ."
+    },
+    {
+      "v": 8,
+      "ref": "psa.23.8",
+      "text": "Quis est iste rex gloriæ ? Dominus fortis et potens, Dominus potens in prælio."
+    },
+    {
+      "v": 9,
+      "ref": "psa.23.9",
+      "text": "Attollite portas, principes, vestras, et elevamini, portæ æternales, et introibit rex gloriæ."
+    },
+    {
+      "v": 10,
+      "ref": "psa.23.10",
+      "text": "Quis est iste rex gloriæ ? Dominus virtutum ipse est rex gloriæ."
+    }
+  ]
+}

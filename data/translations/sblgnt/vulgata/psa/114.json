@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 114,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.114.1",
+      "text": "Alleluja. Dilexi, quoniam exaudiet Dominus vocem orationis meæ."
+    },
+    {
+      "v": 2,
+      "ref": "psa.114.2",
+      "text": "Quia inclinavit aurem suam mihi, et in diebus meis invocabo."
+    },
+    {
+      "v": 3,
+      "ref": "psa.114.3",
+      "text": "Circumdederunt me dolores mortis ; et pericula inferni invenerunt me. Tribulationem et dolorem inveni,"
+    },
+    {
+      "v": 4,
+      "ref": "psa.114.4",
+      "text": "et nomen Domini invocavi : o Domine, libera animam meam."
+    },
+    {
+      "v": 5,
+      "ref": "psa.114.5",
+      "text": "Misericors Dominus et justus, et Deus noster miseretur."
+    },
+    {
+      "v": 6,
+      "ref": "psa.114.6",
+      "text": "Custodiens parvulos Dominus ; humiliatus sum, et liberavit me."
+    },
+    {
+      "v": 7,
+      "ref": "psa.114.7",
+      "text": "Convertere, anima mea, in requiem tuam, quia Dominus benefecit tibi :"
+    },
+    {
+      "v": 8,
+      "ref": "psa.114.8",
+      "text": "quia eripuit animam meam de morte, oculos meos a lacrimis, pedes meos a lapsu."
+    },
+    {
+      "v": 9,
+      "ref": "psa.114.9",
+      "text": "Placebo Domino in regione vivorum."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 20,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.20.1",
+      "text": "In finem. Psalmus David."
+    },
+    {
+      "v": 2,
+      "ref": "psa.20.2",
+      "text": "Domine, in virtute tua lætabitur rex, et super salutare tuum exsultabit vehementer."
+    },
+    {
+      "v": 3,
+      "ref": "psa.20.3",
+      "text": "Desiderium cordis ejus tribuisti ei, et voluntate labiorum ejus non fraudasti eum."
+    },
+    {
+      "v": 4,
+      "ref": "psa.20.4",
+      "text": "Quoniam prævenisti eum in benedictionibus dulcedinis ; posuisti in capite ejus coronam de lapide pretioso."
+    },
+    {
+      "v": 5,
+      "ref": "psa.20.5",
+      "text": "Vitam petiit a te, et tribuisti ei longitudinem dierum, in sæculum, et in sæculum sæculi."
+    },
+    {
+      "v": 6,
+      "ref": "psa.20.6",
+      "text": "Magna est gloria ejus in salutari tuo ; gloriam et magnum decorem impones super eum."
+    },
+    {
+      "v": 7,
+      "ref": "psa.20.7",
+      "text": "Quoniam dabis eum in benedictionem in sæculum sæculi ; lætificabis eum in gaudio cum vultu tuo."
+    },
+    {
+      "v": 8,
+      "ref": "psa.20.8",
+      "text": "Quoniam rex sperat in Domino, et in misericordia Altissimi non commovebitur."
+    },
+    {
+      "v": 9,
+      "ref": "psa.20.9",
+      "text": "Inveniatur manus tua omnibus inimicis tuis ; dextera tua inveniat omnes qui te oderunt."
+    },
+    {
+      "v": 10,
+      "ref": "psa.20.10",
+      "text": "Pones eos ut clibanum ignis in tempore vultus tui : Dominus in ira sua conturbabit eos, et devorabit eos ignis."
+    },
+    {
+      "v": 11,
+      "ref": "psa.20.11",
+      "text": "Fructum eorum de terra perdes, et semen eorum a filiis hominum,"
+    },
+    {
+      "v": 12,
+      "ref": "psa.20.12",
+      "text": "quoniam declinaverunt in te mala ; cogitaverunt consilia quæ non potuerunt stabilire."
+    },
+    {
+      "v": 13,
+      "ref": "psa.20.13",
+      "text": "Quoniam pones eos dorsum ; in reliquiis tuis præparabis vultum eorum."
+    },
+    {
+      "v": 14,
+      "ref": "psa.20.14",
+      "text": "Exaltare, Domine, in virtute tua ; cantabimus et psallemus virtutes tuas."
+    }
+  ]
+}

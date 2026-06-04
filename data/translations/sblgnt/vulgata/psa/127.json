@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 127,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.127.1",
+      "text": "Canticum graduum. Beati omnes qui timent Dominum, qui ambulant in viis ejus."
+    },
+    {
+      "v": 2,
+      "ref": "psa.127.2",
+      "text": "Labores manuum tuarum quia manducabis : beatus es, et bene tibi erit."
+    },
+    {
+      "v": 3,
+      "ref": "psa.127.3",
+      "text": "Uxor tua sicut vitis abundans in lateribus domus tuæ ; filii tui sicut novellæ olivarum in circuitu mensæ tuæ."
+    },
+    {
+      "v": 4,
+      "ref": "psa.127.4",
+      "text": "Ecce sic benedicetur homo qui timet Dominum."
+    },
+    {
+      "v": 5,
+      "ref": "psa.127.5",
+      "text": "Benedicat tibi Dominus ex Sion, et videas bona Jerusalem omnibus diebus vitæ tuæ."
+    },
+    {
+      "v": 6,
+      "ref": "psa.127.6",
+      "text": "Et videas filios filiorum tuorum : pacem super Israël."
+    }
+  ]
+}

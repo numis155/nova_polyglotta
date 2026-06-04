@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "translation": "vulgata",
+  "book": "psa",
+  "chapter": 52,
+  "verses": [
+    {
+      "v": 1,
+      "ref": "psa.52.1",
+      "text": "In finem, pro Maëleth intelligentiæ David. Dixit insipiens in corde suo : Non est Deus."
+    },
+    {
+      "v": 2,
+      "ref": "psa.52.2",
+      "text": "Corrupti sunt, et abominabiles facti sunt in iniquitatibus ; non est qui faciat bonum."
+    },
+    {
+      "v": 3,
+      "ref": "psa.52.3",
+      "text": "Deus de cælo prospexit super filios hominum, ut videat si est intelligens, aut requirens Deum."
+    },
+    {
+      "v": 4,
+      "ref": "psa.52.4",
+      "text": "Omnes declinaverunt ; simul inutiles facti sunt : non est qui faciat bonum, non est usque ad unum."
+    },
+    {
+      "v": 5,
+      "ref": "psa.52.5",
+      "text": "Nonne scient omnes qui operantur iniquitatem, qui devorant plebem meam ut cibum panis ?"
+    },
+    {
+      "v": 6,
+      "ref": "psa.52.6",
+      "text": "Deum non invocaverunt ; illic trepidaverunt timore, ubi non erat timor. Quoniam Deus dissipavit ossa eorum qui hominibus placent : confusi sunt, quoniam Deus sprevit eos."
+    },
+    {
+      "v": 7,
+      "ref": "psa.52.7",
+      "text": "Quis dabit ex Sion salutare Israël ? cum converterit Deus captivitatem plebis suæ, exsultabit Jacob, et lætabitur Israël."
+    }
+  ]
+}

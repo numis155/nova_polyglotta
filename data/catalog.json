@@ -6,13 +6,168 @@
     "version": "0.1.0",
     "defaultBook": "jhn",
     "defaultChapter": 1,
-    "defaultTranslations": ["vulgata", "na28", "cee"]
+    "defaultTranslations": [
+      "vulgata",
+      "sblgnt",
+      "cee"
+    ]
   },
   "data": {
     "basePath": "data/translations",
     "filePattern": "{translation}/{book}/{chapter}.json"
   },
   "translations": [
+    {
+      "id": "vulgata",
+      "name": "Vulgata Clementina",
+      "shortName": "Vulgata",
+      "language": "la",
+      "languageName": "Latín",
+      "direction": "ltr",
+      "tradition": "catolica",
+      "type": "latin",
+      "status": "reviewed",
+      "copyright": "public_domain",
+      "coverage": {
+        "testaments": [
+          "AT",
+          "NT"
+        ],
+        "books": [
+          "1ch",
+          "1co",
+          "1jn",
+          "1ki",
+          "1ma",
+          "1pe",
+          "1sa",
+          "1th",
+          "1ti",
+          "2ch",
+          "2co",
+          "2jn",
+          "2ki",
+          "2ma",
+          "2pe",
+          "2sa",
+          "2th",
+          "2ti",
+          "3jn",
+          "act",
+          "amo",
+          "bar",
+          "col",
+          "dan",
+          "deu",
+          "ecc",
+          "eph",
+          "est",
+          "exo",
+          "ezk",
+          "ezr",
+          "gal",
+          "gen",
+          "hab",
+          "hag",
+          "heb",
+          "hos",
+          "isa",
+          "jas",
+          "jdg",
+          "jdt",
+          "jer",
+          "jhn",
+          "job",
+          "jol",
+          "jon",
+          "jos",
+          "jud",
+          "lam",
+          "lev",
+          "luk",
+          "mal",
+          "mat",
+          "mic",
+          "mrk",
+          "nam",
+          "neh",
+          "num",
+          "oba",
+          "phm",
+          "php",
+          "pro",
+          "psa",
+          "rev",
+          "rom",
+          "rut",
+          "sir",
+          "sng",
+          "tit",
+          "tob",
+          "wis",
+          "zec",
+          "zep"
+        ]
+      },
+      "stats": {
+        "books": 73,
+        "chapters": 1334,
+        "verses": 35811,
+        "missingVerses": 0
+      }
+    },
+    {
+      "id": "sblgnt",
+      "name": "SBL Greek New Testament",
+      "shortName": "SBLGNT",
+      "language": "grc",
+      "languageName": "Griego koiné",
+      "direction": "ltr",
+      "tradition": "critical_text",
+      "type": "original_language",
+      "status": "reviewed",
+      "copyright": "check_license",
+      "coverage": {
+        "testaments": [
+          "NT"
+        ],
+        "books": [
+          "1co",
+          "1jn",
+          "1pe",
+          "1th",
+          "1ti",
+          "2co",
+          "2jn",
+          "2pe",
+          "2th",
+          "2ti",
+          "3jn",
+          "act",
+          "col",
+          "eph",
+          "gal",
+          "heb",
+          "jas",
+          "jhn",
+          "jud",
+          "luk",
+          "mat",
+          "mrk",
+          "phm",
+          "php",
+          "rev",
+          "rom",
+          "tit"
+        ]
+      },
+      "stats": {
+        "books": 27,
+        "chapters": 260,
+        "verses": 7954,
+        "missingVerses": 15
+      }
+    },
     {
       "id": "cee",
       "name": "Sagrada Biblia CEE",
@@ -22,57 +177,5115 @@
       "direction": "ltr",
       "tradition": "catolica",
       "type": "translation",
+      "status": "reviewed_with_automated_cleaning",
+      "copyright": "restricted",
       "coverage": {
-        "testaments": ["AT", "NT"],
-        "books": []
+        "testaments": [
+          "AT",
+          "NT"
+        ],
+        "books": [
+          "1ch",
+          "1co",
+          "1jn",
+          "1ki",
+          "1ma",
+          "1pe",
+          "1sa",
+          "1th",
+          "1ti",
+          "2ch",
+          "2co",
+          "2jn",
+          "2ki",
+          "2ma",
+          "2pe",
+          "2sa",
+          "2th",
+          "2ti",
+          "3jn",
+          "act",
+          "amo",
+          "bar",
+          "col",
+          "dan",
+          "deu",
+          "ecc",
+          "eph",
+          "est",
+          "exo",
+          "ezk",
+          "ezr",
+          "gal",
+          "gen",
+          "hab",
+          "hag",
+          "heb",
+          "hos",
+          "isa",
+          "jas",
+          "jdg",
+          "jdt",
+          "jer",
+          "jhn",
+          "job",
+          "jol",
+          "jon",
+          "jos",
+          "jud",
+          "lam",
+          "lev",
+          "luk",
+          "mal",
+          "mat",
+          "mic",
+          "mrk",
+          "nam",
+          "neh",
+          "num",
+          "oba",
+          "phm",
+          "php",
+          "pro",
+          "psa",
+          "rev",
+          "rom",
+          "rut",
+          "sir",
+          "sng",
+          "tit",
+          "tob",
+          "wis",
+          "zec",
+          "zep"
+        ]
       },
-      "status": "partial",
-      "copyright": "restricted"
-    },
-    {
-      "id": "vulgata",
-      "name": "Vulgata",
-      "shortName": "Vulgata",
-      "language": "la",
-      "languageName": "Latín",
-      "direction": "ltr",
-      "tradition": "catolica",
-      "type": "latin",
-      "coverage": {
-        "testaments": ["AT", "NT"],
-        "books": []
-      },
-      "status": "planned",
-      "copyright": "public_domain_or_check"
-    },
-    {
-      "id": "na28",
-      "name": "Nestle-Aland 28",
-      "shortName": "NA28",
-      "language": "grc",
-      "languageName": "Griego koiné",
-      "direction": "ltr",
-      "tradition": "critical_text",
-      "type": "original_language",
-      "coverage": {
-        "testaments": ["NT"],
-        "books": []
-      },
-      "status": "planned",
-      "copyright": "restricted"
+      "stats": {
+        "books": 73,
+        "chapters": 1328,
+        "verses": 35472,
+        "missingVerses": 48
+      }
     }
   ],
   "books": [
     {
+      "id": "gen",
+      "osisId": "Gen",
+      "name": "Génesis",
+      "abbreviation": "Gn",
+      "testament": "AT",
+      "order": 1,
+      "defaultChapters": 50,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "chapterCount": 50
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ],
+          "chapterCount": 50
+        }
+      }
+    },
+    {
+      "id": "exo",
+      "osisId": "Exod",
+      "name": "Éxodo",
+      "abbreviation": "Ex",
+      "testament": "AT",
+      "order": 2,
+      "defaultChapters": 40,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "chapterCount": 40
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ],
+          "chapterCount": 40
+        }
+      }
+    },
+    {
+      "id": "lev",
+      "osisId": "Lev",
+      "name": "Levítico",
+      "abbreviation": "Lv",
+      "testament": "AT",
+      "order": 3,
+      "defaultChapters": 27,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "chapterCount": 27
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "chapterCount": 27
+        }
+      }
+    },
+    {
+      "id": "num",
+      "osisId": "Num",
+      "name": "Números",
+      "abbreviation": "Nm",
+      "testament": "AT",
+      "order": 4,
+      "defaultChapters": 36,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "chapterCount": 36
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "chapterCount": 36
+        }
+      }
+    },
+    {
+      "id": "deu",
+      "osisId": "Deut",
+      "name": "Deuteronomio",
+      "abbreviation": "Dt",
+      "testament": "AT",
+      "order": 5,
+      "defaultChapters": 34,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ],
+          "chapterCount": 34
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ],
+          "chapterCount": 34
+        }
+      }
+    },
+    {
+      "id": "jos",
+      "osisId": "Josh",
+      "name": "Josué",
+      "abbreviation": "Jos",
+      "testament": "AT",
+      "order": 6,
+      "defaultChapters": 24,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        }
+      }
+    },
+    {
+      "id": "jdg",
+      "osisId": "Judg",
+      "name": "Jueces",
+      "abbreviation": "Jue",
+      "testament": "AT",
+      "order": 7,
+      "defaultChapters": 21,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "chapterCount": 21
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "chapterCount": 21
+        }
+      }
+    },
+    {
+      "id": "rut",
+      "osisId": "Ruth",
+      "name": "Rut",
+      "abbreviation": "Rut",
+      "testament": "AT",
+      "order": 8,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        }
+      }
+    },
+    {
+      "id": "1sa",
+      "osisId": "1Sam",
+      "name": "1 Samuel",
+      "abbreviation": "1 Sam",
+      "testament": "AT",
+      "order": 9,
+      "defaultChapters": 31,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "chapterCount": 31
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "chapterCount": 31
+        }
+      }
+    },
+    {
+      "id": "2sa",
+      "osisId": "2Sam",
+      "name": "2 Samuel",
+      "abbreviation": "2 Sam",
+      "testament": "AT",
+      "order": 10,
+      "defaultChapters": 24,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        }
+      }
+    },
+    {
+      "id": "1ki",
+      "osisId": "1Kgs",
+      "name": "1 Reyes",
+      "abbreviation": "1 Re",
+      "testament": "AT",
+      "order": 11,
+      "defaultChapters": 22,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "chapterCount": 22
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "chapterCount": 22
+        }
+      }
+    },
+    {
+      "id": "2ki",
+      "osisId": "2Kgs",
+      "name": "2 Reyes",
+      "abbreviation": "2 Re",
+      "testament": "AT",
+      "order": 12,
+      "defaultChapters": 25,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "chapterCount": 25
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "chapterCount": 25
+        }
+      }
+    },
+    {
+      "id": "1ch",
+      "osisId": "1Chr",
+      "name": "1 Crónicas",
+      "abbreviation": "1 Crón",
+      "testament": "AT",
+      "order": 13,
+      "defaultChapters": 29,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "chapterCount": 29
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "chapterCount": 29
+        }
+      }
+    },
+    {
+      "id": "2ch",
+      "osisId": "2Chr",
+      "name": "2 Crónicas",
+      "abbreviation": "2 Crón",
+      "testament": "AT",
+      "order": 14,
+      "defaultChapters": 36,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "chapterCount": 36
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ],
+          "chapterCount": 36
+        }
+      }
+    },
+    {
+      "id": "ezr",
+      "osisId": "Ezra",
+      "name": "Esdras",
+      "abbreviation": "Esd",
+      "testament": "AT",
+      "order": 15,
+      "defaultChapters": 10,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "chapterCount": 10
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "chapterCount": 10
+        }
+      }
+    },
+    {
+      "id": "neh",
+      "osisId": "Neh",
+      "name": "Nehemías",
+      "abbreviation": "Neh",
+      "testament": "AT",
+      "order": 16,
+      "defaultChapters": 13,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        }
+      }
+    },
+    {
+      "id": "tob",
+      "osisId": "Tob",
+      "name": "Tobías",
+      "abbreviation": "Tob",
+      "testament": "AT",
+      "order": 17,
+      "defaultChapters": 14,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        }
+      }
+    },
+    {
+      "id": "jdt",
+      "osisId": "Jdt",
+      "name": "Judit",
+      "abbreviation": "Jdt",
+      "testament": "AT",
+      "order": 18,
+      "defaultChapters": 16,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        }
+      }
+    },
+    {
+      "id": "est",
+      "osisId": "Esth",
+      "name": "Ester",
+      "abbreviation": "Est",
+      "testament": "AT",
+      "order": 19,
+      "defaultChapters": 16,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "chapterCount": 10
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        }
+      }
+    },
+    {
+      "id": "job",
+      "osisId": "Job",
+      "name": "Job",
+      "abbreviation": "Job",
+      "testament": "AT",
+      "order": 20,
+      "defaultChapters": 42,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "chapterCount": 42
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ],
+          "chapterCount": 42
+        }
+      }
+    },
+    {
+      "id": "psa",
+      "osisId": "Ps",
+      "name": "Salmos",
+      "abbreviation": "Sal",
+      "testament": "AT",
+      "order": 21,
+      "defaultChapters": 150,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "chapterCount": 150
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ],
+          "chapterCount": 150
+        }
+      }
+    },
+    {
+      "id": "pro",
+      "osisId": "Prov",
+      "name": "Proverbios",
+      "abbreviation": "Prov",
+      "testament": "AT",
+      "order": 22,
+      "defaultChapters": 31,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "chapterCount": 31
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ],
+          "chapterCount": 31
+        }
+      }
+    },
+    {
+      "id": "ecc",
+      "osisId": "Eccl",
+      "name": "Eclesiastés",
+      "abbreviation": "Ecl",
+      "testament": "AT",
+      "order": 23,
+      "defaultChapters": 12,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "chapterCount": 12
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "chapterCount": 12
+        }
+      }
+    },
+    {
+      "id": "sng",
+      "osisId": "Song",
+      "name": "Cantar de los Cantares",
+      "abbreviation": "Cant",
+      "testament": "AT",
+      "order": 24,
+      "defaultChapters": 8,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "chapterCount": 8
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "chapterCount": 8
+        }
+      }
+    },
+    {
+      "id": "wis",
+      "osisId": "Wis",
+      "name": "Sabiduría",
+      "abbreviation": "Sab",
+      "testament": "AT",
+      "order": 25,
+      "defaultChapters": 19,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "chapterCount": 19
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "chapterCount": 19
+        }
+      }
+    },
+    {
+      "id": "sir",
+      "osisId": "Sir",
+      "name": "Eclesiástico / Sirácida",
+      "abbreviation": "Eclo",
+      "testament": "AT",
+      "order": 26,
+      "defaultChapters": 51,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+          ],
+          "chapterCount": 51
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+          ],
+          "chapterCount": 51
+        }
+      }
+    },
+    {
+      "id": "isa",
+      "osisId": "Isa",
+      "name": "Isaías",
+      "abbreviation": "Is",
+      "testament": "AT",
+      "order": 27,
+      "defaultChapters": 66,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ],
+          "chapterCount": 66
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ],
+          "chapterCount": 66
+        }
+      }
+    },
+    {
+      "id": "jer",
+      "osisId": "Jer",
+      "name": "Jeremías",
+      "abbreviation": "Jer",
+      "testament": "AT",
+      "order": 28,
+      "defaultChapters": 52,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ],
+          "chapterCount": 52
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ],
+          "chapterCount": 52
+        }
+      }
+    },
+    {
+      "id": "lam",
+      "osisId": "Lam",
+      "name": "Lamentaciones",
+      "abbreviation": "Lam",
+      "testament": "AT",
+      "order": 29,
+      "defaultChapters": 5,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        }
+      }
+    },
+    {
+      "id": "bar",
+      "osisId": "Bar",
+      "name": "Baruc",
+      "abbreviation": "Bar",
+      "testament": "AT",
+      "order": 30,
+      "defaultChapters": 6,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        }
+      }
+    },
+    {
+      "id": "ezk",
+      "osisId": "Ezek",
+      "name": "Ezequiel",
+      "abbreviation": "Ez",
+      "testament": "AT",
+      "order": 31,
+      "defaultChapters": 48,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "chapterCount": 48
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ],
+          "chapterCount": 48
+        }
+      }
+    },
+    {
+      "id": "dan",
+      "osisId": "Dan",
+      "name": "Daniel",
+      "abbreviation": "Dan",
+      "testament": "AT",
+      "order": 32,
+      "defaultChapters": 14,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        }
+      }
+    },
+    {
+      "id": "hos",
+      "osisId": "Hos",
+      "name": "Oseas",
+      "abbreviation": "Os",
+      "testament": "AT",
+      "order": 33,
+      "defaultChapters": 14,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        }
+      }
+    },
+    {
+      "id": "jol",
+      "osisId": "Joel",
+      "name": "Joel",
+      "abbreviation": "Jl",
+      "testament": "AT",
+      "order": 34,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "amo",
+      "osisId": "Amos",
+      "name": "Amós",
+      "abbreviation": "Am",
+      "testament": "AT",
+      "order": 35,
+      "defaultChapters": 9,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "chapterCount": 9
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "chapterCount": 9
+        }
+      }
+    },
+    {
+      "id": "oba",
+      "osisId": "Obad",
+      "name": "Abdías",
+      "abbreviation": "Abd",
+      "testament": "AT",
+      "order": 36,
+      "defaultChapters": 1,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "vulgata": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        }
+      }
+    },
+    {
+      "id": "jon",
+      "osisId": "Jonah",
+      "name": "Jonás",
+      "abbreviation": "Jon",
+      "testament": "AT",
+      "order": 37,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        }
+      }
+    },
+    {
+      "id": "mic",
+      "osisId": "Mic",
+      "name": "Miqueas",
+      "abbreviation": "Miq",
+      "testament": "AT",
+      "order": 38,
+      "defaultChapters": 7,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "chapterCount": 7
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "chapterCount": 7
+        }
+      }
+    },
+    {
+      "id": "nam",
+      "osisId": "Nah",
+      "name": "Nahúm",
+      "abbreviation": "Nah",
+      "testament": "AT",
+      "order": 39,
+      "defaultChapters": 3,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "hab",
+      "osisId": "Hab",
+      "name": "Habacuc",
+      "abbreviation": "Hab",
+      "testament": "AT",
+      "order": 40,
+      "defaultChapters": 3,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "zep",
+      "osisId": "Zeph",
+      "name": "Sofonías",
+      "abbreviation": "Sof",
+      "testament": "AT",
+      "order": 41,
+      "defaultChapters": 3,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "hag",
+      "osisId": "Hag",
+      "name": "Ageo",
+      "abbreviation": "Ag",
+      "testament": "AT",
+      "order": 42,
+      "defaultChapters": 2,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2
+          ],
+          "chapterCount": 2
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2
+          ],
+          "chapterCount": 2
+        }
+      }
+    },
+    {
+      "id": "zec",
+      "osisId": "Zech",
+      "name": "Zacarías",
+      "abbreviation": "Zac",
+      "testament": "AT",
+      "order": 43,
+      "defaultChapters": 14,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "chapterCount": 14
+        }
+      }
+    },
+    {
+      "id": "mal",
+      "osisId": "Mal",
+      "name": "Malaquías",
+      "abbreviation": "Mal",
+      "testament": "AT",
+      "order": 44,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        }
+      }
+    },
+    {
+      "id": "1ma",
+      "osisId": "1Macc",
+      "name": "1 Macabeos",
+      "abbreviation": "1 Mac",
+      "testament": "AT",
+      "order": 45,
+      "defaultChapters": 16,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        }
+      }
+    },
+    {
+      "id": "2ma",
+      "osisId": "2Macc",
+      "name": "2 Macabeos",
+      "abbreviation": "2 Mac",
+      "testament": "AT",
+      "order": 46,
+      "defaultChapters": 15,
+      "availableTranslations": [
+        "cee",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "chapterCount": 15
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "chapterCount": 15
+        }
+      }
+    },
+    {
+      "id": "mat",
+      "osisId": "Matt",
+      "name": "Mateo",
+      "abbreviation": "Mt",
+      "testament": "NT",
+      "order": 47,
+      "defaultChapters": 28,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "chapterCount": 28
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "chapterCount": 28
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "chapterCount": 28
+        }
+      }
+    },
+    {
+      "id": "mrk",
+      "osisId": "Mark",
+      "name": "Marcos",
+      "abbreviation": "Mc",
+      "testament": "NT",
+      "order": 48,
+      "defaultChapters": 16,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        }
+      }
+    },
+    {
+      "id": "luk",
+      "osisId": "Luke",
+      "name": "Lucas",
+      "abbreviation": "Lc",
+      "testament": "NT",
+      "order": 49,
+      "defaultChapters": 24,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "chapterCount": 24
+        }
+      }
+    },
+    {
       "id": "jhn",
       "osisId": "John",
       "name": "Juan",
-      "fullName": "Evangelio según san Juan",
       "abbreviation": "Jn",
       "testament": "NT",
-      "order": 43,
-      "chapters": 21,
-      "availableTranslations": ["cee"]
+      "order": 50,
+      "defaultChapters": 21,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "chapterCount": 21
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "chapterCount": 21
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "chapterCount": 21
+        }
+      }
+    },
+    {
+      "id": "act",
+      "osisId": "Acts",
+      "name": "Hechos",
+      "abbreviation": "Hch",
+      "testament": "NT",
+      "order": 51,
+      "defaultChapters": 28,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "chapterCount": 28
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "chapterCount": 28
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "chapterCount": 28
+        }
+      }
+    },
+    {
+      "id": "rom",
+      "osisId": "Rom",
+      "name": "Romanos",
+      "abbreviation": "Rom",
+      "testament": "NT",
+      "order": 52,
+      "defaultChapters": 16,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        }
+      }
+    },
+    {
+      "id": "1co",
+      "osisId": "1Cor",
+      "name": "1 Corintios",
+      "abbreviation": "1 Cor",
+      "testament": "NT",
+      "order": 53,
+      "defaultChapters": 16,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapterCount": 16
+        }
+      }
+    },
+    {
+      "id": "2co",
+      "osisId": "2Cor",
+      "name": "2 Corintios",
+      "abbreviation": "2 Cor",
+      "testament": "NT",
+      "order": 54,
+      "defaultChapters": 13,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        }
+      }
+    },
+    {
+      "id": "gal",
+      "osisId": "Gal",
+      "name": "Gálatas",
+      "abbreviation": "Gál",
+      "testament": "NT",
+      "order": 55,
+      "defaultChapters": 6,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        }
+      }
+    },
+    {
+      "id": "eph",
+      "osisId": "Eph",
+      "name": "Efesios",
+      "abbreviation": "Ef",
+      "testament": "NT",
+      "order": 56,
+      "defaultChapters": 6,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        }
+      }
+    },
+    {
+      "id": "php",
+      "osisId": "Phil",
+      "name": "Filipenses",
+      "abbreviation": "Flp",
+      "testament": "NT",
+      "order": 57,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        }
+      }
+    },
+    {
+      "id": "col",
+      "osisId": "Col",
+      "name": "Colosenses",
+      "abbreviation": "Col",
+      "testament": "NT",
+      "order": 58,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        }
+      }
+    },
+    {
+      "id": "1th",
+      "osisId": "1Thess",
+      "name": "1 Tesalonicenses",
+      "abbreviation": "1 Tes",
+      "testament": "NT",
+      "order": 59,
+      "defaultChapters": 5,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        }
+      }
+    },
+    {
+      "id": "2th",
+      "osisId": "2Thess",
+      "name": "2 Tesalonicenses",
+      "abbreviation": "2 Tes",
+      "testament": "NT",
+      "order": 60,
+      "defaultChapters": 3,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "1ti",
+      "osisId": "1Tim",
+      "name": "1 Timoteo",
+      "abbreviation": "1 Tim",
+      "testament": "NT",
+      "order": 61,
+      "defaultChapters": 6,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "chapterCount": 6
+        }
+      }
+    },
+    {
+      "id": "2ti",
+      "osisId": "2Tim",
+      "name": "2 Timoteo",
+      "abbreviation": "2 Tim",
+      "testament": "NT",
+      "order": 62,
+      "defaultChapters": 4,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "chapterCount": 4
+        }
+      }
+    },
+    {
+      "id": "tit",
+      "osisId": "Titus",
+      "name": "Tito",
+      "abbreviation": "Tit",
+      "testament": "NT",
+      "order": 63,
+      "defaultChapters": 3,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "phm",
+      "osisId": "Phlm",
+      "name": "Filemón",
+      "abbreviation": "Flm",
+      "testament": "NT",
+      "order": 64,
+      "defaultChapters": 1,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "sblgnt": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "vulgata": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        }
+      }
+    },
+    {
+      "id": "heb",
+      "osisId": "Heb",
+      "name": "Hebreos",
+      "abbreviation": "Heb",
+      "testament": "NT",
+      "order": 65,
+      "defaultChapters": 13,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ],
+          "chapterCount": 13
+        }
+      }
+    },
+    {
+      "id": "jas",
+      "osisId": "Jas",
+      "name": "Santiago",
+      "abbreviation": "Sant",
+      "testament": "NT",
+      "order": 66,
+      "defaultChapters": 5,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        }
+      }
+    },
+    {
+      "id": "1pe",
+      "osisId": "1Pet",
+      "name": "1 Pedro",
+      "abbreviation": "1 Pe",
+      "testament": "NT",
+      "order": 67,
+      "defaultChapters": 5,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        }
+      }
+    },
+    {
+      "id": "2pe",
+      "osisId": "2Pet",
+      "name": "2 Pedro",
+      "abbreviation": "2 Pe",
+      "testament": "NT",
+      "order": 68,
+      "defaultChapters": 3,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3
+          ],
+          "chapterCount": 3
+        }
+      }
+    },
+    {
+      "id": "1jn",
+      "osisId": "1John",
+      "name": "1 Juan",
+      "abbreviation": "1 Jn",
+      "testament": "NT",
+      "order": 69,
+      "defaultChapters": 5,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "chapterCount": 5
+        }
+      }
+    },
+    {
+      "id": "2jn",
+      "osisId": "2John",
+      "name": "2 Juan",
+      "abbreviation": "2 Jn",
+      "testament": "NT",
+      "order": 70,
+      "defaultChapters": 1,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "sblgnt": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "vulgata": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        }
+      }
+    },
+    {
+      "id": "3jn",
+      "osisId": "3John",
+      "name": "3 Juan",
+      "abbreviation": "3 Jn",
+      "testament": "NT",
+      "order": 71,
+      "defaultChapters": 1,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "sblgnt": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "vulgata": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        }
+      }
+    },
+    {
+      "id": "jud",
+      "osisId": "Jude",
+      "name": "Judas",
+      "abbreviation": "Jud",
+      "testament": "NT",
+      "order": 72,
+      "defaultChapters": 1,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "sblgnt": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        },
+        "vulgata": {
+          "chapters": [
+            1
+          ],
+          "chapterCount": 1
+        }
+      }
+    },
+    {
+      "id": "rev",
+      "osisId": "Rev",
+      "name": "Apocalipsis",
+      "abbreviation": "Ap",
+      "testament": "NT",
+      "order": 73,
+      "defaultChapters": 22,
+      "availableTranslations": [
+        "cee",
+        "sblgnt",
+        "vulgata"
+      ],
+      "perTranslation": {
+        "cee": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "chapterCount": 22
+        },
+        "sblgnt": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "chapterCount": 22
+        },
+        "vulgata": {
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "chapterCount": 22
+        }
+      }
     }
-  ]
+  ],
+  "knownMissingVerses": {
+    "sblgnt": [
+      {
+        "ref": "act.8.37",
+        "book": "act",
+        "chapter": 8,
+        "verse": 37,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "act.15.34",
+        "book": "act",
+        "chapter": 15,
+        "verse": 34,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "act.24.7",
+        "book": "act",
+        "chapter": 24,
+        "verse": 7,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "act.28.29",
+        "book": "act",
+        "chapter": 28,
+        "verse": 29,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "jhn.5.4",
+        "book": "jhn",
+        "chapter": 5,
+        "verse": 4,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "luk.17.36",
+        "book": "luk",
+        "chapter": 17,
+        "verse": 36,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "luk.23.17",
+        "book": "luk",
+        "chapter": 23,
+        "verse": 17,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mat.17.21",
+        "book": "mat",
+        "chapter": 17,
+        "verse": 21,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mat.18.11",
+        "book": "mat",
+        "chapter": 18,
+        "verse": 11,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mat.23.14",
+        "book": "mat",
+        "chapter": 23,
+        "verse": 14,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mrk.7.16",
+        "book": "mrk",
+        "chapter": 7,
+        "verse": 16,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mrk.9.44",
+        "book": "mrk",
+        "chapter": 9,
+        "verse": 44,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mrk.9.46",
+        "book": "mrk",
+        "chapter": 9,
+        "verse": 46,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mrk.11.26",
+        "book": "mrk",
+        "chapter": 11,
+        "verse": 26,
+        "reason": "not_in_sblgnt"
+      },
+      {
+        "ref": "mrk.15.28",
+        "book": "mrk",
+        "chapter": 15,
+        "verse": 28,
+        "reason": "not_in_sblgnt"
+      }
+    ]
+  }
 }
