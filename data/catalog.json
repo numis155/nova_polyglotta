@@ -24,7 +24,7 @@
       "type": "translation",
       "coverage": {
         "testaments": ["AT", "NT"],
-        "books": ["jhn"]
+        "books": []
       },
       "status": "partial",
       "copyright": "restricted"
