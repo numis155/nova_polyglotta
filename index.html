@@ -1,16 +1,30 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <title>Nova Polyglotta</title>
+  <meta charset="UTF-8">
+  <title>Nova Polyglotta</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-    <h1>Nova Polyglotta</h1>
+  <h1>Nova Polyglotta</h1>
 
-    <div id="content"></div>
+  <div class="controls">
+    <label>Versión</label>
+    <select id="translationSelect"></select>
 
-    <script src="app.js"></script>
+    <label>Libro</label>
+    <select id="bookSelect"></select>
 
+    <label>Capítulo</label>
+    <select id="chapterSelect"></select>
+
+    <label>Versículo</label>
+    <select id="verseSelect"></select>
+  </div>
+
+  <main id="reader"></main>
+
+  <script src="app.js"></script>
 </body>
 </html>
