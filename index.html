@@ -7,9 +7,14 @@
 </head>
 <body>
 
-  <h1>Nova Polyglotta</h1>
+<header class="topbar">
+  <div class="brand">📖 Nova Polyglotta</div>
+</header>
 
-  <div class="controls">
+<div class="layout">
+  <aside class="sidebar">
+    <h3>Selección</h3>
+
     <label>Versión</label>
     <select id="translationSelect"></select>
 
@@ -19,12 +24,38 @@
     <label>Capítulo</label>
     <select id="chapterSelect"></select>
 
-    <label>Versículo</label>
-    <select id="verseSelect"></select>
-  </div>
+    <label>Versículos por página</label>
+    <select id="pageSizeSelect">
+      <option value="10">10</option>
+      <option value="20" selected>20</option>
+      <option value="30">30</option>
+      <option value="999">Todo el capítulo</option>
+    </select>
 
-  <main id="reader"></main>
+    <h3>Navegación</h3>
 
-  <script src="app.js"></script>
+    <button id="prevChapterBtn">← Capítulo anterior</button>
+    <button id="nextChapterBtn">Capítulo siguiente →</button>
+  </aside>
+
+  <main class="content">
+    <div class="breadcrumb" id="breadcrumb"></div>
+
+    <section class="reader-card">
+      <h1 id="chapterTitle"></h1>
+      <div id="versesContainer"></div>
+    </section>
+
+    <nav class="pager">
+      <button id="firstPageBtn">«</button>
+      <button id="prevPageBtn">‹</button>
+      <span id="pageInfo"></span>
+      <button id="nextPageBtn">›</button>
+      <button id="lastPageBtn">»</button>
+    </nav>
+  </main>
+</div>
+
+<script src="app.js"></script>
 </body>
 </html>
